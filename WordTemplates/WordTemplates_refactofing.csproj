@@ -49,8 +49,4 @@
         <SubType>Code</SubType>
       </Compile>
     </ItemGroup>
-
-    <ItemGroup>
-      <Folder Include="Services\NewFolder\" />
-    </ItemGroup>
 </Project>

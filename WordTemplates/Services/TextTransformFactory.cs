@@ -13,12 +13,10 @@ public class TextTransformFactory
         staticDocument = _document;
         staticData = _data;
     }
-    DocX Execute()
+   DocX Transform()
     {
-        if (staticDocument.FindUniqueByPattern("$названия", RegexOptions.CultureInvariant).Count > 0)
-        {
-
-        }
+        IExecute executioneer;
+        /*somecode*/
         return staticDocument;
     }
 

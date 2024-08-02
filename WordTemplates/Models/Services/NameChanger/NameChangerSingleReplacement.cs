@@ -16,7 +16,10 @@ namespace WordTemplates_refactofing.Services.NameChanger
     //
     //it is maybe a good idea to make separate classes for single and multiple 
     //replacements
-    internal class NameChangerSingleReplacement: INameChanger
+    //
+    // do inheritance matter?
+
+    internal class NameChangerSingleReplacement
     {
         private static Dictionary<string, string[]> replaceKeys;
         NameChangerSingleReplacement(string[] names) 
@@ -37,31 +40,18 @@ namespace WordTemplates_refactofing.Services.NameChanger
         }
 
 
-        internal override DocX Execute(DocX document)
+        //internal override DocX Execute(DocX document)
+        //{
+        //    document= ExecuteWithMultipleReplacement(ExecuteWithSingleReplacement(document));
+        //    return document;
+        //}
+        internal DocX Execute(DocX document)
         {
-            document= ExecuteWithMultipleReplacement(ExecuteWithSingleReplacement(document));
+            document = ExecuteWithSingleReplacement(document);
             return document;
         }
-
 
         private DocX ExecuteWithSingleReplacement(DocX document)
-        {
-
-            if (document.FindUniqueByPattern(@"<[\w \=]{4,}>", RegexOptions.IgnoreCase).Count > 0)
-            {
-                // Do the replacement of all the found tags and with green bold strings.
-                var replaceTextOptions = new FunctionReplaceTextOptions()
-                {
-                    FindPattern = "@{(.*?)}",
-                    RegexMatchHandler = NameChangerSingleReplacement.ReplaceFunc,
-                    RegExOptions = RegexOptions.IgnoreCase,
-                    NewFormatting = new Formatting() { Bold = true, FontColor = System.Drawing.Color.Red }
-                };
-                document.ReplaceText(replaceTextOptions);
-            }
-            return document;
-        }
-        private  DocX ExecuteWithMultipleReplacement(DocX document)
         {
 
             if (document.FindUniqueByPattern(@"<[\w \=]{4,}>", RegexOptions.IgnoreCase).Count > 0)

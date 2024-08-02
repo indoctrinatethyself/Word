@@ -17,51 +17,35 @@ namespace WordTemplates_refactofing.Services.NameChanger
     //
     //it is maybe a good idea to make separate classes for single and multiple 
     //replacements
-    internal class NameChangerMultipleReplacement : NameChanger
+    internal class NameChangerMultipleReplacement : NameChangerBase
     {
-        private static Dictionary<string, string[]> replaceKeys;
-        NameChangerMultipleReplacement(string[] names)
-        {
-            replaceKeys = new Dictionary<string, string[]>()
-                {
-                    {"название",names }
-                };
-        }
 
         private static string ReplaceFunc(string findStr)
         {
             if (replaceKeys.ContainsKey(findStr))
             {
-                return replaceKeys[findStr];
+                string replacement = "";
+                foreach (string name in replaceKeys[findStr]) 
+                {
+                    replacement += name+ " представляет собой " ;
+                }
+                return replacement;
             }
             return findStr;
         }
 
 
-        internal override DocX Execute(DocX document)
+        //internal override DocX Execute(DocX document)
+        //{
+        //    document = ExecuteWithMultipleReplacement(ExecuteWithSingleReplacement(document));
+        //    return document;
+        //}
+        internal DocX Execute(DocX document)
         {
-            document = ExecuteWithMultipleReplacement(ExecuteWithSingleReplacement(document));
+            document = ExecuteWithMultipleReplacement(document);
             return document;
         }
 
-
-        private DocX ExecuteWithSingleReplacement(DocX document)
-        {
-
-            if (document.FindUniqueByPattern(@"<[\w \=]{4,}>", RegexOptions.IgnoreCase).Count > 0)
-            {
-                // Do the replacement of all the found tags and with green bold strings.
-                var replaceTextOptions = new FunctionReplaceTextOptions()
-                {
-                    FindPattern = "@{(.*?)}",
-                    RegexMatchHandler = NameChangerMultipleReplacement.ReplaceFunc,
-                    RegExOptions = RegexOptions.IgnoreCase,
-                    NewFormatting = new Formatting() { Bold = true, FontColor = System.Drawing.Color.Red }
-                };
-                document.ReplaceText(replaceTextOptions);
-            }
-            return document;
-        }
         private DocX ExecuteWithMultipleReplacement(DocX document)
         {
 
@@ -71,7 +55,7 @@ namespace WordTemplates_refactofing.Services.NameChanger
                 var replaceTextOptions = new FunctionReplaceTextOptions()
                 {
                     FindPattern = "@{(.*?)}",
-                    RegexMatchHandler = NameChangerSingleReplacement.ReplaceFuncMultiple,
+                    RegexMatchHandler = NameChangerSingleReplacement.ReplaceFunc,
                     RegExOptions = RegexOptions.IgnoreCase,
                     NewFormatting = new Formatting() { Bold = true, FontColor = System.Drawing.Color.Red }
                 };

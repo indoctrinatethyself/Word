@@ -150,7 +150,7 @@ public partial class MainViewModel : ViewModelBase
     }
 
     [RelayCommand]
-    private async Task Create() //invoked when pressed "Создать"
+    private async Task Create() //invoked when pressed "Создать"; TODO: apply new architecture
     {
         try
         {

@@ -8,15 +8,16 @@ public class TextTransformFactory
 {
     static DocX staticDocument;
     static TemplateData staticData;
-    TextTransformFactory(DocX _document, TemplateData _data)
+    TextTransformFactory(DocX document, TemplateData data)
     {
-        staticDocument = _document;
-        staticData = _data;
+        staticDocument = document;
+        staticData = data;
     }
-   DocX Transform()
+   DocX Transform(DocX document, string savePath)
     {
-        IExecute executioneer;
+
         /*somecode*/
+        staticDocument.SaveAs(savePath);
         return staticDocument;
     }
 

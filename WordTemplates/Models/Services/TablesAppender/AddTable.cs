@@ -2,14 +2,13 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 using Xceed.Words.NET;
 
-namespace WordTemplates_refactofing.Services
+namespace WordTemplates_refactofing.Services.TablesRenamer
 {
-    internal interface IExecute
+    internal class AddTable
     {
-        DocX Execute();
+        
     }
 }

@@ -1,11 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using System.Text.RegularExpressions;
-using System.Threading.Tasks;
-using WordTemplates;
-using WordTemplates_refactofing.Models.Services.NameChanger;
 using Xceed.Document.NET;
 using Xceed.Words.NET;
 
@@ -18,18 +13,19 @@ namespace WordTemplates_refactofing.Services.NameChanger
     //replacements
     //
     // do inheritance matter?
+    // disinherited
 
     internal class NameChangerSingleReplacement
     {
-        private static Dictionary<string, string[]> replaceKeys;
-        NameChangerSingleReplacement(string[] names) 
+        private static Dictionary<string, string> replaceKeys;
+        internal NameChangerSingleReplacement(string[] names) 
         {
-             replaceKeys = new Dictionary<string, string[]>()
+             replaceKeys = new Dictionary<string, string>()
                 {
-                    {"названия",names }
+                    {"названия", String.Join(",", names) }
                 };
         }
-
+       
         private static string ReplaceFunc(string findStr)
         {
             if (replaceKeys.ContainsKey(findStr))
@@ -60,7 +56,7 @@ namespace WordTemplates_refactofing.Services.NameChanger
                 var replaceTextOptions = new FunctionReplaceTextOptions()
                 {
                     FindPattern = "@{(.*?)}",
-                    RegexMatchHandler = NameChangerSingleReplacement.ReplaceFunc,
+                    RegexMatchHandler = ReplaceFunc,
                     RegExOptions = RegexOptions.IgnoreCase,
                     NewFormatting = new Formatting() { Bold = true, FontColor = System.Drawing.Color.Red }
                 };

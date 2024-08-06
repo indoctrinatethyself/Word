@@ -15,33 +15,20 @@ namespace WordTemplates_refactofing.Services.NameChanger
     // do inheritance matter?
     // disinherited
 
-    internal class NameChangerSingleReplacement
+    internal class NameChangerSingleReplacement: IExecutioneer
     {
-        private static Dictionary<string, string> replaceKeys;
+        private static string replaceString;
         internal NameChangerSingleReplacement(string[] names) 
         {
-             replaceKeys = new Dictionary<string, string>()
-                {
-                    {"названия", String.Join(",", names) }
-                };
-        }
-       
-        private static string ReplaceFunc(string findStr)
-        {
-            if (replaceKeys.ContainsKey(findStr))
-            {
-                return String.Join(",", replaceKeys[findStr]);
-            }
-            return findStr;
-        }
+             replaceString=String.Join(", ", names);
 
-
+        }
         //internal override DocX Execute(DocX document)
         //{
         //    document= ExecuteWithMultipleReplacement(ExecuteWithSingleReplacement(document));
         //    return document;
         //}
-        internal DocX Execute(DocX document)
+        public DocX Execute(DocX document)
         {
             document = ExecuteWithSingleReplacement(document);
             return document;
@@ -49,19 +36,7 @@ namespace WordTemplates_refactofing.Services.NameChanger
 
         private DocX ExecuteWithSingleReplacement(DocX document)
         {
-
-            if (document.FindUniqueByPattern(@"<[\w \=]{4,}>", RegexOptions.IgnoreCase).Count > 0)
-            {
-                // Do the replacement of all the found tags and with green bold strings.
-                var replaceTextOptions = new FunctionReplaceTextOptions()
-                {
-                    FindPattern = "@{(.*?)}",
-                    RegexMatchHandler = ReplaceFunc,
-                    RegExOptions = RegexOptions.IgnoreCase,
-                    NewFormatting = new Formatting() { Bold = true, FontColor = System.Drawing.Color.Red }
-                };
-                document.ReplaceText(replaceTextOptions);
-            }
+            document.ReplaceText("<названия>", replaceString);
             return document;
         }
     }

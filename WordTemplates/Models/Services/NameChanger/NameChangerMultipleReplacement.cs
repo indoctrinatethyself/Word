@@ -14,54 +14,45 @@ namespace WordTemplates_refactofing.Services.NameChanger
     //
     //it is maybe a good idea to make separate classes for single and multiple 
     //replacements
-    internal class NameChangerMultipleReplacement 
+    //
+    //UPD: it is successful, now i may move on to the table part
+    internal class NameChangerMultipleReplacement: IExecutioneer
     {
+        //this is a class made for turning a string into the string
+        //with replaced words
+
         private Dictionary<string, string> replaceKeys;
-        NameChangerMultipleReplacement(string[] names, string[] descriptions)
+        string[] names;
+        string[] descriptions;
+        internal NameChangerMultipleReplacement(string[] names, string[] descriptions)
         {
-            Dictionary<string, string> replaceKeys = new Dictionary<string, string>()
-                {
-                    {"название",ConcatenateStrings(names, descriptions) }
-                };
+           this.names = names;
+           this.descriptions = descriptions;
         }
-        private string ConcatenateStrings(string[] names, string[] descriptions)
+
+        private string ConcatenateStrings()
         {
             string replacement = "";
 
             for (int i = 0; i < names.Length; i++) 
             {
-                replacement += names[i] + " представляет собой " + descriptions[i];
+                if (descriptions[i] != null)
+                {
+                    replacement += names[i] + " представляет собой " + descriptions[i]+", ";
+                }
+                else if (descriptions[i] == null)
+                {
+                    replacement += names[i] + ", ";
+                }
             }
-            return replacement;
+            return replacement.Substring(0, replacement.Length-2)+".";
         }
-        private string ReplaceFunc(string findStr)
-        {
-            if (replaceKeys.ContainsKey(findStr))
-            {
-                return replaceKeys[findStr];
-            }
-            return findStr;
-        }
-       
-
         private DocX ExecuteReplacement(DocX document)
         {
-
-            if (document.FindUniqueByPattern(@"<[\w \=]{4,}>", RegexOptions.IgnoreCase).Count > 0)
-            {
-                // Do the replacement of all the found tags and with green bold strings.
-                var replaceTextOptions = new FunctionReplaceTextOptions()
-                {
-                    FindPattern = "@{(.*?)}",
-                    RegexMatchHandler = ReplaceFunc,
-                    RegExOptions = RegexOptions.IgnoreCase,
-                    NewFormatting = new Formatting() { Bold = true, FontColor = System.Drawing.Color.Red }
-                };
-                document.ReplaceText(replaceTextOptions);
-            }
+            document.ReplaceText("<названия_с_описаниями>", ConcatenateStrings());
             return document;
         }
-        internal DocX Execute(DocX document)
+        public DocX Execute(DocX document)
         {
             document = ExecuteReplacement(document);
             return document;

@@ -7,8 +7,12 @@ using Xceed.Words.NET;
 
 namespace WordTemplates_refactofing.Services.TablesRenamer
 {
-    internal class AddTable
+    internal class AddTable: IExecutioneer
     {
         
+        public DocX Execute(DocX document)
+        {
+            return null;
+        }
     }
 }

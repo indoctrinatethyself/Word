@@ -7,7 +7,7 @@ namespace WordTemplates.Services;
 
 public interface IDocumentProcessor
 {
-    DocX Process(DocX document, TemplateData data);
+    internal DocX Process(DocX document, TemplateData data);
 }
 
 

@@ -40,19 +40,18 @@ public class TextTransformFactory
         //this part of code adds microscheme's name(s) into the document
         IExecutioneer singleReplacement = new NameChangerSingleReplacement(((IList<Element>)staticData.Elements).Select(e => e.Name).ToArray());
         staticDocument = singleReplacement.Execute(staticDocument);
-        singleReplacement = null!;
 
         //the following code adds name(s) and description(s)
         //maybe use interface?
         IExecutioneer multipleReplacement = new NameChangerMultipleReplacement(((IList<Element>)staticData.Elements).Select(e => e.Name).ToArray(), ((IList<Element>)staticData.Elements).Select(e => e.Description).ToArray());
         staticDocument = multipleReplacement.Execute(staticDocument);
-        multipleReplacement = null!;
 
         //the next lines are about a table 
+        IExecutioneer addTable = new AddTable(staticData.);
+        staticDocument= addTable.Execute(staticDocument);
 
 
-        
-        AddTable addTable = new AddTable();
+
         return staticDocument;
     }
 

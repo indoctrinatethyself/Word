@@ -49,4 +49,8 @@
         <SubType>Code</SubType>
       </Compile>
     </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="Models\Services\PointsRenamer\" />
+    </ItemGroup>
 </Project>

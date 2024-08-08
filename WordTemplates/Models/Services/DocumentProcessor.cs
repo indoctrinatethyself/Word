@@ -18,6 +18,6 @@ public class DocumentProcessor : IDocumentProcessor
         //DocumentProcessorCore processor = new(document, data);
         //processor.Process();
         TextTransformFactory transform = new TextTransformFactory(document, data);
-        return transform.Transform() ;
+        return transform.Transform();
     }
 }

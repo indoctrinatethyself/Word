@@ -12,11 +12,12 @@ using Xceed.Words.NET;
 namespace WordTemplates_refactofing.Services.TablesRenamer
 {
 
-    internal class AddTable: IExecutioneer
+    internal class AddTableValues: IExecutioneer
     {
         Table t;
+        TemplateData data;
         // we do load data in constructors, DocX in execute
-        internal AddTable(DocX document) 
+        internal AddTableValues(DocX document, TemplateData data) 
         {
             //creating a head part of a table
             t = document.AddTable(2, 7);
@@ -35,6 +36,7 @@ namespace WordTemplates_refactofing.Services.TablesRenamer
             t.MergeCellsInColumn(6, 0, 1);
             t.Rows[0].MergeCells(2, 3);
             t.Rows[0].MergeCells(3, 4);
+            this.data = data;
         }
         private void RowAppend(OperatingConditionsParameter tableData)
         {
@@ -49,9 +51,17 @@ namespace WordTemplates_refactofing.Services.TablesRenamer
         }
         public DocX Execute(DocX document)
         {
-            foreach ()
-            document.ReplaceTextWithObject("<таблица 2>", t);
-            return null;
+            for (int i = 0; i < data.Groups.Count; i++)
+            {
+                //this is NOT going to work
+                for (int j = 0; j < data.Groups[i].OperatingConditionsParameters.Count; j++)
+                {
+                    RowAppend(data.Groups[i].OperatingConditionsParameters[j]);
+                }
+            }
+
+            document.ReplaceTextWithObject("<таблица 2 экспериментальная>", t);
+            return document;
         }
     }
 }

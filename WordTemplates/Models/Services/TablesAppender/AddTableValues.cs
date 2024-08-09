@@ -53,7 +53,7 @@ namespace WordTemplates_refactofing.Services.TablesRenamer
         {
             for (int i = 0; i < data.Groups.Count; i++)
             {
-                //this is NOT going to work
+
                 for (int j = 0; j < data.Groups[i].OperatingConditionsParameters.Count; j++)
                 {
                     RowAppend(data.Groups[i].OperatingConditionsParameters[j]);

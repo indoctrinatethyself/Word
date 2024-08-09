@@ -55,14 +55,14 @@ public class TextTransformFactory
         IExecutioneer addTableValues = new AddTableValues(staticDocument, staticData);
         staticDocument= addTableValues.Execute(staticDocument);
 
-        // replace another text sample with parameters
+        // replace another text sample with another table
         IExecutioneer addTableParameters = new AddTableParameters(staticDocument, staticData);
         staticDocument=addTableParameters.Execute(staticDocument);
 
-
+        /*
         IExecutioneer addTableSummary = new AddTableSummary(staticDocument, staticData);
         staticDocument = AddTableSummary.Execute(staticDocument);
-
+        */
         return staticDocument;
     }
 

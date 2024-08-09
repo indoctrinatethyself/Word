@@ -33,19 +33,25 @@ namespace WordTemplates_refactofing.Models.Services.TablesAppender
 
             this.data = data;
         }
-        private void RowAppend()
+        private void RowAppend(Element element)
         {
-
+            var r = t.InsertRow();
+            r.Cells[0].Paragraphs[0].Append(element.Name);
+            r.Cells[1].Paragraphs[0].Append(element.Description);
+            /*
+            r.Cells[2].Paragraphs[0].Append(element.ParameterValues.);
+            r.Cells[3].Paragraphs[0].Append(tableData.MaximumPermissible.AtMost);
+            r.Cells[4].Paragraphs[0].Append(tableData.Limit.AtLeast);
+            r.Cells[5].Paragraphs[0].Append(tableData.Limit.AtMost);
+            r.Cells[6].Paragraphs[0].Append(tableData.NoteRefs);
+            */
         }
         public DocX Execute(DocX document)
         {
-            for (int i = 0; i < data.Variables.Count; i++)
+            for (int i = 0; i < data.Elements.Count; i++)
             {
-                //this is NOT going to work
-                for (int j = 0; j < data.Variables[i]; j++)
-                {
-                    RowAppend(data.Groups[i].OperatingConditionsParameters[j]);
-                }
+                RowAppend(data.Elements[i].Value);
+
             }
 
             document.ReplaceTextWithObject("<таблица 1 экспериментальная>", t);

@@ -41,6 +41,9 @@ public class TextTransformFactory
         //TODO: throw an exception when user tries to execute the program
         //with an empty microschemes amount. currently the error seems strange
 
+        //TODO: "не более" и "не менее" из раздела "микросхемы" не работает
+        //прям ВООБЩе, сделать и поправить. 
+
         //this part of code adds microscheme's name(s) into the document
 
         //сейчас иду на обед, пишу чтобы не отлечься от важной задачи. а именно:
@@ -67,6 +70,7 @@ public class TextTransformFactory
         IExecutioneer addTableSummary = new AddTableSummary(staticDocument, staticData);
         staticDocument = AddTableSummary.Execute(staticDocument);
         */
+
         return staticDocument;
     }
 

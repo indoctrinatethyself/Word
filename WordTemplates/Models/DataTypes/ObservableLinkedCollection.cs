@@ -6,7 +6,7 @@ using System.Collections.Specialized;
 using System.ComponentModel;
 using System.Linq;
 
-namespace WordTemplates.Models;
+namespace WordTemplates_refactofing.Models.DataTypes;
 
 public class ObservableLinkedCollection<TContainer, TElement> :
     IList<ObservableLinkedCollection<TContainer, TElement>.CollectionElement>,
@@ -24,7 +24,7 @@ public class ObservableLinkedCollection<TContainer, TElement> :
         _collection = new(collection.Select(e => new CollectionElement(e, Container)));
     }
 
-    public ObservableLinkedCollection(TContainer container) : this(container, [ ]) { }
+    public ObservableLinkedCollection(TContainer container) : this(container, []) { }
 
     public TContainer Container { get; }
 

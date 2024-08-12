@@ -36,6 +36,9 @@
         <DependentUpon>MainWindow.axaml</DependentUpon>
         <SubType>Code</SubType>
       </Compile>
+      <Compile Update="Views\InDevelopment.axaml.cs">
+        <DependentUpon>InDevelopment.axaml</DependentUpon>
+      </Compile>
       <Compile Update="Views\VariablesView.axaml.cs">
         <DependentUpon>VariablesView.axaml</DependentUpon>
         <SubType>Code</SubType>

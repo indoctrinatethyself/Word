@@ -2,6 +2,7 @@
 using System.Collections.ObjectModel;
 using System.Linq;
 using CommunityToolkit.Mvvm.ComponentModel;
+using WordTemplates_refactofing.Models.DataTypes;
 
 namespace WordTemplates.Models;
 

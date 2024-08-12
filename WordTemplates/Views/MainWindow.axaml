@@ -35,6 +35,15 @@
             <TabItem Header="Группы">
                 <views:GroupsView DataContext="{Binding Path=GroupsViewModel}" />
             </TabItem>
+			
+			<TabItem Header="Раздел в разработке">
+				<views:InDevelopment  />
+			</TabItem>
+			
+			<!-- <TabItem Header="Раздел в разработке">
+				<views:InDevelopment  DataContect = "{Binding Path = InDevelopmentViewModel}"/>
+			</TabItem>
+			-->
         </TabControl>
     </Grid>
 </Window>

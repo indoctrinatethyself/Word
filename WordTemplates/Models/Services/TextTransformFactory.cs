@@ -42,6 +42,10 @@ public class TextTransformFactory
         //with an empty microschemes amount. currently the error seems strange
 
         //this part of code adds microscheme's name(s) into the document
+
+        //сейчас иду на обед, пишу чтобы не отлечься от важной задачи. а именно:
+        //формируем таблицу "Значения электрических параметров модулей", надо подебажить
+        //и понять где у чувака лежат электрические параметры микросхем
         IExecutioneer singleReplacement = new NameChangerSingleReplacement(((IList<Element>)staticData.Elements).Select(e => e.Name).ToArray());
         staticDocument = singleReplacement.Execute(staticDocument);
 

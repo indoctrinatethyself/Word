@@ -9,14 +9,14 @@ using Xceed.Words.NET;
 
 namespace WordTemplates_refactofing.Models.Services.TablesAppender
 {
-    internal class AddTableSummary:IExecutioneer
+    internal class AddTableEachMicroscheme:IExecutioneer
     {
         // TODO: find out, how many tables do we need and where exaclty should they be putted 
-        internal AddTableSummary() 
+        internal AddTableEachMicroscheme() 
         { 
 
         }
-        internal AddTableSummary(DocX document, TemplateData data) 
+        internal AddTableEachMicroscheme(DocX document, TemplateData data) 
         { 
 
         }

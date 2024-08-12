@@ -20,7 +20,7 @@ namespace WordTemplates_refactofing.Services.TablesRenamer
         internal AddTableValues(DocX document, TemplateData data) 
         {
             //creating a head part of a table
-            t = document.AddTable(2, 7);
+            t = document.AddTable(3, 7);
             t.Alignment = Alignment.center;
             t.Rows[0].Cells[0].Paragraphs[0].Append("Наименование параметра, \r\nединица измерения, режим \r\nизмерения");
             t.Rows[0].Cells[1].Paragraphs[0].Append("Буквенное \r\nобозначение \r\nпараметра");
@@ -31,6 +31,16 @@ namespace WordTemplates_refactofing.Services.TablesRenamer
             t.Rows[1].Cells[3].Paragraphs[0].Append("не более");
             t.Rows[1].Cells[4].Paragraphs[0].Append("не менее");
             t.Rows[1].Cells[5].Paragraphs[0].Append("не более");
+
+            /* =) */
+            t.Rows[2].Cells[0].Paragraphs[0].Append("1");
+            t.Rows[2].Cells[1].Paragraphs[0].Append("2");
+            t.Rows[2].Cells[2].Paragraphs[0].Append("3");
+            t.Rows[2].Cells[3].Paragraphs[0].Append("4");
+            t.Rows[2].Cells[4].Paragraphs[0].Append("5");
+            t.Rows[2].Cells[5].Paragraphs[0].Append("6");
+            t.Rows[2].Cells[6].Paragraphs[0].Append("7");
+
             t.MergeCellsInColumn(0, 0, 1);
             t.MergeCellsInColumn(1, 0, 1);
             t.MergeCellsInColumn(6, 0, 1);
@@ -53,6 +63,16 @@ namespace WordTemplates_refactofing.Services.TablesRenamer
         {
             for (int i = 0; i < data.Groups.Count; i++)
             {
+                //IEnumerator is not implemented in a library
+                var r = t.InsertRow();
+                for (int k = 0; k < r.ColumnCount-2; k++)
+                {
+                    r.MergeCells(0, 1);
+                }
+                r.Cells[0].Paragraphs[0].Append($"{data.Groups[i].Name}");
+
+                //r.Cells[0].Paragraphs[0].Append($"{data.Groups[i].Name} Group {i+1}");
+                //UPD: 12.08.24
 
                 for (int j = 0; j < data.Groups[i].OperatingConditionsParameters.Count; j++)
                 {
@@ -60,7 +80,10 @@ namespace WordTemplates_refactofing.Services.TablesRenamer
                 }
             }
 
+            //TODO: insert page break after the table
+            //Get rid of ReplaceTextWithObject and do everything manually?
             document.ReplaceTextWithObject("<таблица 2 экспериментальная>", t);
+           
             return document;
         }
     }

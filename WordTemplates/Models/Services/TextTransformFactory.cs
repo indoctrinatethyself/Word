@@ -1,14 +1,15 @@
 ﻿using System.Collections.Generic;
 
-using WordTemplates.Models;
-using WordTemplates_refactofing.Services.NameChanger;
+using WordTemplates_refactoring.Models;
+using WordTemplates_refactoring_refactofing.Services.NameChanger;
 using Xceed.Words.NET;
 using System.Linq;
-using WordTemplates_refactofing.Services.TablesRenamer;
-using WordTemplates_refactofing.Models.Services.TablesAppender;
+using WordTemplates_refactoring_refactofing.Services.TablesRenamer;
+using WordTemplates_refactoring_refactofing.Models.Services.TablesAppender;
+using WordTemplates_refactoring_refactofing.Models.Services.Appendixes;
 
 
-namespace WordTemplates_refactofing.Services;
+namespace WordTemplates_refactoring_refactofing.Services;
 internal interface IExecutioneer
 {
     DocX Execute(DocX document);
@@ -58,7 +59,7 @@ public class TextTransformFactory
         staticDocument = multipleReplacement.Execute(staticDocument);
 
         //two lines which replace text with a table with 
-        //maximal or minimal data
+        //maximal or minimal data 
         IExecutioneer addTableValues = new AddTableValues(staticDocument, staticData);
         staticDocument= addTableValues.Execute(staticDocument);
 
@@ -70,6 +71,8 @@ public class TextTransformFactory
         IExecutioneer addTableSummary = new AddTableSummary(staticDocument, staticData);
         staticDocument = AddTableSummary.Execute(staticDocument);
         */
+
+        IExecutioneer addAppendix = new AppendixA(staticDocument, staticData);
 
         return staticDocument;
     }

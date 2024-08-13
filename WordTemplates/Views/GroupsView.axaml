@@ -2,10 +2,10 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-             xmlns:vm="clr-namespace:WordTemplates.ViewModels"
-             xmlns:m="clr-namespace:WordTemplates.Models"
+             xmlns:vm="clr-namespace:WordTemplates_refactoring.ViewModels"
+             xmlns:m="clr-namespace:WordTemplates_refactoring.Models"
              mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
-             x:Class="WordTemplates.Views.GroupsView"
+             x:Class="WordTemplates_refactoring.Views.GroupsView"
              x:DataType="vm:GroupsViewModel"
              Name="Root">
 

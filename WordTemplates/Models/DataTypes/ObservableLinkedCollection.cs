@@ -6,7 +6,7 @@ using System.Collections.Specialized;
 using System.ComponentModel;
 using System.Linq;
 
-namespace WordTemplates_refactofing.Models.DataTypes;
+namespace WordTemplates_refactoring_refactofing.Models.DataTypes;
 
 public class ObservableLinkedCollection<TContainer, TElement> :
     IList<ObservableLinkedCollection<TContainer, TElement>.CollectionElement>,

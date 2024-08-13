@@ -1,6 +1,6 @@
 ﻿using CommunityToolkit.Mvvm.ComponentModel;
 
-namespace WordTemplates.Models;
+namespace WordTemplates_refactoring.Models;
 
 public partial class Variable(string name, string value) : ObservableObject
 {

@@ -3,7 +3,7 @@ using System.Collections.ObjectModel;
 using System.Linq;
 using CommunityToolkit.Mvvm.ComponentModel;
 
-namespace WordTemplates.Models;
+namespace WordTemplates_refactoring.Models;
 
 public partial class Element(string name = "", string description = "") : ObservableObject
 {

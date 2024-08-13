@@ -36,8 +36,11 @@
         <DependentUpon>MainWindow.axaml</DependentUpon>
         <SubType>Code</SubType>
       </Compile>
-      <Compile Update="Views\InDevelopment.axaml.cs">
-        <DependentUpon>InDevelopment.axaml</DependentUpon>
+      <Compile Update="Views\Appendix_A.axaml.cs">
+        <DependentUpon>Appendix_A.axaml</DependentUpon>
+      </Compile>
+      <Compile Update="Views\Appendix_D.axaml.cs">
+        <DependentUpon>Appendix_D.axaml</DependentUpon>
       </Compile>
       <Compile Update="Views\VariablesView.axaml.cs">
         <DependentUpon>VariablesView.axaml</DependentUpon>

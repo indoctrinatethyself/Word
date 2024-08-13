@@ -1,7 +1,7 @@
 ﻿using System;
 using CommunityToolkit.Mvvm.ComponentModel;
 
-namespace WordTemplates.Models;
+namespace WordTemplates_refactoring.Models;
 
 public partial class ValueLimits(string atLeast = "", string atMost = "") : ObservableObject, IEquatable<ValueLimits>
 {

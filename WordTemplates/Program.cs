@@ -1,7 +1,7 @@
 ﻿using Avalonia;
 using System;
 
-namespace WordTemplates;
+namespace WordTemplates_refactoring;
 
 class Program
 {

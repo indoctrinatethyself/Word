@@ -1,7 +1,7 @@
 ﻿using CommunityToolkit.Mvvm.Input;
-using WordTemplates.Models;
+using WordTemplates_refactoring.Models;
 
-namespace WordTemplates.ViewModels;
+namespace WordTemplates_refactoring.ViewModels;
 
 public partial class GroupsViewModel : ViewModelBase
 {

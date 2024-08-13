@@ -3,12 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using WordTemplates.Models;
-using WordTemplates_refactofing.Services;
+using WordTemplates_refactoring.Models;
+using WordTemplates_refactoring_refactofing.Services;
 using Xceed.Document.NET;
 using Xceed.Words.NET;
 
-namespace WordTemplates_refactofing.Models.Services.TablesAppender
+namespace WordTemplates_refactoring_refactofing.Models.Services.TablesAppender
 {
     internal class AddTableParameters:IExecutioneer
     {

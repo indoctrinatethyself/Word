@@ -2,7 +2,7 @@
 using System.Linq;
 using CommunityToolkit.Mvvm.ComponentModel;
 
-namespace WordTemplates.Models;
+namespace WordTemplates_refactoring.Models;
 
 public partial class ElectricalParameter(string name = "", string symbol = "", string temp = "") : ObservableObject
 {

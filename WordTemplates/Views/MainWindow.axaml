@@ -2,11 +2,11 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        xmlns:vm="clr-namespace:WordTemplates.ViewModels"
-        xmlns:views="clr-namespace:WordTemplates.Views"
+        xmlns:vm="clr-namespace:WordTemplates_refactoring.ViewModels"
+        xmlns:views="clr-namespace:WordTemplates_refactoring.Views"
         mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
-        x:Class="WordTemplates.Views.MainWindow"
-        Title="WordTemplates"
+        x:Class="WordTemplates_refactoring.Views.MainWindow"
+        Title="WordTemplates_refactoring"
         x:DataType="vm:MainWindowViewModel"
         Name="Root">
     
@@ -36,8 +36,11 @@
                 <views:GroupsView DataContext="{Binding Path=GroupsViewModel}" />
             </TabItem>
 			
-			<TabItem Header="Раздел в разработке">
-				<views:InDevelopment  />
+			<TabItem Header="Приложение А">
+				<views:Appendix_A  />
+			</TabItem>
+			<TabItem Header ="Приложение Г">
+				<views:Appendix_D  />
 			</TabItem>
 			
 			<!-- <TabItem Header="Раздел в разработке">

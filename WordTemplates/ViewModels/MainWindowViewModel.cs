@@ -1,7 +1,7 @@
 ﻿using CommunityToolkit.Mvvm.ComponentModel;
-using WordTemplates.Models;
+using WordTemplates_refactoring.Models;
 
-namespace WordTemplates.ViewModels;
+namespace WordTemplates_refactoring.ViewModels;
 
 public partial class MainWindowViewModel : ViewModelBase
 {

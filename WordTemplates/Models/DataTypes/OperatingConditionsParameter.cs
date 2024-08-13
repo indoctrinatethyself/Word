@@ -1,6 +1,6 @@
 ﻿using CommunityToolkit.Mvvm.ComponentModel;
 
-namespace WordTemplates.Models;
+namespace WordTemplates_refactoring.Models;
 
 public partial class OperatingConditionsParameter(string name = "", string symbol = "") : ObservableObject
 {

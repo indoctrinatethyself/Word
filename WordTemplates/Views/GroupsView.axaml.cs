@@ -1,6 +1,6 @@
 ﻿using Avalonia.Controls;
 
-namespace WordTemplates.Views;
+namespace WordTemplates_refactoring.Views;
 
 public partial class GroupsView : UserControl
 {

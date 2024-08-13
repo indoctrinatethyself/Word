@@ -7,11 +7,11 @@ using Avalonia.Controls.Notifications;
 using Avalonia.Platform.Storage;
 using CommunityToolkit.Mvvm.ComponentModel;
 using CommunityToolkit.Mvvm.Input;
-using WordTemplates.Models;
-using WordTemplates.Services;
+using WordTemplates_refactoring.Models;
+using WordTemplates_refactoring.Services;
 using Xceed.Words.NET;
 
-namespace WordTemplates.ViewModels;
+namespace WordTemplates_refactoring.ViewModels;
 
 public partial class MainViewModel : ViewModelBase
 {

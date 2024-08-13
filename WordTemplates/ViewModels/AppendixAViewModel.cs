@@ -1,13 +1,13 @@
 ﻿using CommunityToolkit.Mvvm.Input;
-using WordTemplates.Models;
+using WordTemplates_refactoring.Models;
 
-namespace WordTemplates.ViewModels;
+namespace WordTemplates_refactoring.ViewModels;
 
 
-public partial class InDevelopmentViewModel: ViewModelBase
+public partial class AppendixAViewModel: ViewModelBase
 {
-    /*
-    public InDevelopmentViewModel(TemplateData templateData)
+    
+    public AppendixAViewModel(TemplateData templateData)
     {
         TemplateData = templateData;
     }
@@ -25,6 +25,6 @@ public partial class InDevelopmentViewModel: ViewModelBase
     {
         TemplateData.Groups.Remove(g);
     }
-    */
+    
 }
 

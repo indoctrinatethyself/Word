@@ -1,9 +1,9 @@
-﻿using WordTemplates.Models;
-//using WordTemplates.Services.DocumentProcessing;
-using WordTemplates_refactofing.Services;
+﻿using WordTemplates_refactoring.Models;
+//using WordTemplates_refactoring.Services.DocumentProcessing;
+using WordTemplates_refactoring_refactofing.Services;
 using Xceed.Words.NET;
 
-namespace WordTemplates.Services;
+namespace WordTemplates_refactoring.Services;
 
 public interface IDocumentProcessor
 {

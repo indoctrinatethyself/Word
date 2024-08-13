@@ -2,9 +2,9 @@ using Avalonia.Controls;
 
 namespace WordTemplates_refactoring.Views;
 
-public partial class MainWindow : Window
+public partial class Appendix_A : UserControl
 {
-    public MainWindow()
+    public Appendix_A()
     {
         InitializeComponent();
     }

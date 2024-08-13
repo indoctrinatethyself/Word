@@ -5,11 +5,11 @@ using System.Reflection.Metadata.Ecma335;
 using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
-using WordTemplates.Models;
+using WordTemplates_refactoring.Models;
 using Xceed.Document.NET;
 using Xceed.Words.NET;
 
-namespace WordTemplates_refactofing.Services.TablesRenamer
+namespace WordTemplates_refactoring_refactofing.Services.TablesRenamer
 {
 
     internal class AddTableValues: IExecutioneer

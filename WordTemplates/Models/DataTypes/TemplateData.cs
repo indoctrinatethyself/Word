@@ -2,9 +2,9 @@
 using System.Collections.ObjectModel;
 using System.Linq;
 using CommunityToolkit.Mvvm.ComponentModel;
-using WordTemplates_refactofing.Models.DataTypes;
+using WordTemplates_refactoring_refactofing.Models.DataTypes;
 
-namespace WordTemplates.Models;
+namespace WordTemplates_refactoring.Models;
 
 public partial class TemplateData : ObservableObject
 {

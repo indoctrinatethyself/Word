@@ -7,7 +7,7 @@ using Xceed.Document.NET;
 using Xceed.Words.NET;
 
 
-namespace WordTemplates_refactofing.Services.NameChanger
+namespace WordTemplates_refactoring_refactofing.Services.NameChanger
 {
     //TODO: there should be two variants of the method - singlename and multiname.
     //Maybe multiname changer should be more functional than the singlename one?

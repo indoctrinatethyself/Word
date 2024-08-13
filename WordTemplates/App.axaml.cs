@@ -6,12 +6,12 @@ using Avalonia.Controls.Notifications;
 using Avalonia.Markup.Xaml;
 using Avalonia.Platform.Storage;
 using Microsoft.Extensions.DependencyInjection;
-using WordTemplates.Models;
-using WordTemplates.Services;
-using WordTemplates.ViewModels;
-using WordTemplates.Views;
+using WordTemplates_refactoring.Models;
+using WordTemplates_refactoring.Services;
+using WordTemplates_refactoring.ViewModels;
+using WordTemplates_refactoring.Views;
 
-namespace WordTemplates;
+namespace WordTemplates_refactoring;
 
 public partial class App : Application
 {

@@ -26,15 +26,19 @@
             <TabItem Header="Главная">
                 <views:MainView DataContext="{Binding Path=MainViewModel}" />
             </TabItem>
-            <TabItem Header="Переменные">
-                <views:VariablesView DataContext="{Binding Path=VariablesViewModel}" />
-            </TabItem>
             <TabItem Header="Микросхемы">
                 <views:ElementsView DataContext="{Binding Path=ElementsViewModel}" />
             </TabItem>
             <TabItem Header="Группы">
                 <views:GroupsView DataContext="{Binding Path=GroupsViewModel}" />
             </TabItem>
+			<TabItem Header="Измерения и ГОСТы ">
+				<views:VariablesView DataContext="{Binding Path=VariablesViewModel}" />
+			</TabItem>
+			
+			<TabItem Header="Разное">
+				<views:Miscellany  />
+			</TabItem>
 			
 			<TabItem Header="Приложение А">
 				<views:Appendix_A  />

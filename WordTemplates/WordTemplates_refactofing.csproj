@@ -42,6 +42,9 @@
       <Compile Update="Views\Appendix_D.axaml.cs">
         <DependentUpon>Appendix_D.axaml</DependentUpon>
       </Compile>
+      <Compile Update="Views\Miscellany.axaml.cs">
+        <DependentUpon>Miscellany.axaml</DependentUpon>
+      </Compile>
       <Compile Update="Views\VariablesView.axaml.cs">
         <DependentUpon>VariablesView.axaml</DependentUpon>
         <SubType>Code</SubType>
@@ -57,6 +60,6 @@
     </ItemGroup>
 
     <ItemGroup>
-      <Folder Include="Models\Services\PointsRenamer\" />
+      <Folder Include="Models\DataTypes\Newer ones\" />
     </ItemGroup>
 </Project>

@@ -28,7 +28,6 @@ namespace WordTemplates_refactofing.Models.Services.NameChanger
             }
             document.ReplaceText("<госты>", replacement);
         }
-
         public DocX Execute(DocX document) 
         {
             MultiplyGosts();

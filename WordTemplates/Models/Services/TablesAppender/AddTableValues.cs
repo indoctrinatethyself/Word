@@ -59,11 +59,26 @@ namespace WordTemplates_refactoring_refactofing.Services.TablesRenamer
             r.Cells[5].Paragraphs[0].Append(tableData.Limit.AtMost);
             r.Cells[6].Paragraphs[0].Append(tableData.NoteRefs);
         }
+        private void NoteAppend(string note)
+        {
+            //column with "номер пункта примечания" remains after the CellMerging, postprocess it?
+            var r=t.InsertRow();
+            for (int k = 0; k < r.ColumnCount - 2; k++)
+            {
+                r.MergeCells(0, 1);
+            }
+            r.Cells[0].Paragraphs[0].Append(note);
+        }
+
         public DocX Execute(DocX document)
         {
+
+
             for (int i = 0; i < data.Groups.Count; i++)
             {
-                //IEnumerator is not implemented in a library
+                //IEnumerator is not implemented 
+
+                //Replace with NoteAppend when the time comes
                 var r = t.InsertRow();
                 for (int k = 0; k < r.ColumnCount-2; k++)
                 {
@@ -78,8 +93,13 @@ namespace WordTemplates_refactoring_refactofing.Services.TablesRenamer
                 {
                     RowAppend(data.Groups[i].OperatingConditionsParameters[j]);
                 }
+                for (int j=0; j < data.Groups[i].OperatingConditionsParametersNotes.Count; j++)
+                {
+                    NoteAppend($"{j+1}. {data.Groups[i].OperatingConditionsParametersNotes[j].Text}");
+                }
             }
 
+           
             //TODO: insert page break after the table
             //Get rid of ReplaceTextWithObject and do everything manually?
             document.ReplaceTextWithObject("<таблица 2 экспериментальная>", t);

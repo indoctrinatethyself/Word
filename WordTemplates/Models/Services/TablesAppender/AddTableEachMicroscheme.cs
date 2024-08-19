@@ -29,7 +29,7 @@ namespace WordTemplates_refactoring_refactofing.Models.Services.TablesAppender
             t.Rows[1].Cells[3].Paragraphs[0].Append("не более");
             t.MergeCellsInColumn(0, 0, 1);
             t.MergeCellsInColumn(1, 0, 1);
-            t.MergeCellsInColumn(4, 0, 1);//is not merging for some reason
+            t.MergeCellsInColumn(4, 0, 1);
             t.Rows[0].MergeCells(2, 3);
 
             this.data = data;

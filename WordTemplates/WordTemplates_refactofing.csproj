@@ -58,8 +58,4 @@
         <SubType>Code</SubType>
       </Compile>
     </ItemGroup>
-
-    <ItemGroup>
-      <Folder Include="Models\DataTypes\Newer ones\" />
-    </ItemGroup>
 </Project>

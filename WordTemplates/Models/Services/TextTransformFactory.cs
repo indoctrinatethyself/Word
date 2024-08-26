@@ -9,6 +9,7 @@ using WordTemplates_refactoring_refactofing.Models.Services.TablesAppender;
 using WordTemplates_refactoring_refactofing.Models.Services.Appendixes;
 using WordTemplates_refactofing.Models.Services.NameChanger;
 using WordTemplates_refactofing.Models.Services.PostProcessing;
+using WordTemplates_refactofing.Models.Services.TablesAppender;
 
 
 namespace WordTemplates_refactoring_refactofing.Services;
@@ -41,6 +42,13 @@ public class TextTransformFactory
 
     public DocX Transform()
     {
+        //20.08.2024,12:13; проект заморожен как минимум на 2 дня т.к. надо пообщаться
+        //с Кристиной и понять, что конкретно требуется сделать и как это должно быть
+        //реализовано
+
+        //23.08.24 проект возобноляется, но мне плохо поэтому будет
+        //делаться медлено
+
         //TODO: throw an exception when user tries to execute the program
         //with an empty microschemes amount. currently the error seems strange
 
@@ -55,14 +63,20 @@ public class TextTransformFactory
         //сейчас иду на обед, пишу чтобы не отлечься от важной задачи. а именно:
         //формируем таблицу "Значения электрических параметров модулей", надо подебажить
         //и понять где у чувака лежат электрические параметры микросхем
+
+        //UPD 26.08.24: проект в норм состоянии, в отличие от проклятого господом 
+        //усилителя, дедлайны выдерживабельные и впринципе можно заняться не только работой,
+        //но и чем-нибудь полезным. 
+        //из сложностей разве что оформление стиля таблиц, но да ладно
+
         IExecutioneer singleReplacement = new NameChangerSingleReplacement(((IList<Element>)staticData.Elements).Select(e => e.Name).ToArray());
         staticDocument = singleReplacement.Execute(staticDocument);
 
         //the following code adds name(s) and description(s)
-        //maybe use interface?
         IExecutioneer multipleReplacement = new NameChangerMultipleReplacement(((IList<Element>)staticData.Elements).Select(e => e.Name).ToArray(), ((IList<Element>)staticData.Elements).Select(e => e.Description).ToArray());
         staticDocument = multipleReplacement.Execute(staticDocument);
 
+        ///////////////////////////////////////////////////////////////////////////////////////////////////
         //two lines which replace text with a table with 
         //maximal or minimal data 
         IExecutioneer addTableValues = new AddTableValues(staticDocument, staticData);
@@ -71,7 +85,12 @@ public class TextTransformFactory
         // replace another text sample with another table
         IExecutioneer addTableParameters = new AddTableParameters(staticDocument, staticData);
         staticDocument=addTableParameters.Execute(staticDocument);
-
+        //////////////////////////////////////////////////////////////////////////////
+        ///
+        //This method should replace some shit made above, just a little 
+        //"generalisation" lol
+        IExecutioneer tablesFromFourthParagraph = new Tables4ParaFactory(staticDocument, staticData);
+        staticDocument=tablesFromFourthParagraph.Execute(staticDocument);
         /*
         IExecutioneer addTableSummary = new AddTableSummary(staticDocument, staticData);
         staticDocument = AddTableSummary.Execute(staticDocument);
@@ -87,10 +106,10 @@ public class TextTransformFactory
         //IDEA: сделать своего рода пост-обработку документа, допустим в процессе где нужен
         //таб ставить какой нибудь странный символ напдобие &, потом просто вручную заменить
 
-        //UPD: а вот и она
+        // Чето типо реализации постпроцессинга документа
+        IExecutioneer postprocessor = new TextPostProcessingFactory(staticDocument, staticData);
+        staticDocument = postprocessor.Execute(staticDocument);
 
-        IExecutioneer postrocessingStrangeSymbolsReplacer = new StrangeSymbolsReplacer();
-        staticDocument = postrocessingStrangeSymbolsReplacer.Execute(staticDocument);
 
         return staticDocument;
     }

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Avalonia.Controls.Platform;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Reflection.Metadata.Ecma335;
@@ -16,10 +17,12 @@ namespace WordTemplates_refactoring_refactofing.Services.TablesRenamer
     {
         Table t;
         TemplateData data;
+        int headerNumber;
         // we do load data in constructors, DocX in execute
-        internal AddTableValues(DocX document, TemplateData data) 
+        internal AddTableValues(DocX document, TemplateData data, int number) 
         {
             //creating a head part of a table
+            this.headerNumber = number;
             t = document.AddTable(3, 7);
             t.Alignment = Alignment.center;
             t.Rows[0].Cells[0].Paragraphs[0].Append("Наименование параметра, \r\nединица измерения, режим \r\nизмерения");
@@ -79,6 +82,8 @@ namespace WordTemplates_refactoring_refactofing.Services.TablesRenamer
                 //IEnumerator is not implemented 
 
                 //Replace with NoteAppend when the time comes
+
+
                 var r = t.InsertRow();
                 for (int k = 0; k < r.ColumnCount-2; k++)
                 {
@@ -99,9 +104,17 @@ namespace WordTemplates_refactoring_refactofing.Services.TablesRenamer
                 }
             }
 
-           
+
             //TODO: insert page break after the table
             //Get rid of ReplaceTextWithObject and do everything manually?
+            for (int i = 0; i < data.Groups.Count-1; i++)
+            {
+                document.ReplaceText("<предельнодопустимые>", $"Таблица 4.{headerNumber+i} – Предельно допустимые и предельные значения электрических режимов эксплуатации микросхем К1324ПП2У, К1324ПП3У) <таблица 2 экспериментальная> <предельнодопустимые>");
+                //ну кароч перед этим надо еще реализовать создание этой таблицы, но это не сегодня.
+                //и не завтра, и не послезавтра. мб еще позже
+                document.ReplaceTextWithObject("<таблица 2 экспериментальная>", t);
+            }
+            document.ReplaceText("<предельнодопустимые>", $"Таблица 4.{headerNumber + data.Groups.Count} – Предельно допустимые и предельные значения электрических режимов эксплуатации микросхем К1324ПП2У, К1324ПП3У)");
             document.ReplaceTextWithObject("<таблица 2 экспериментальная>", t);
            
             return document;

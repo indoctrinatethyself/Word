@@ -35,11 +35,6 @@
 			<TabItem Header="Измерения и ГОСТы ">
 				<views:VariablesView DataContext="{Binding Path=VariablesViewModel}" />
 			</TabItem>
-			
-			<TabItem Header="Разное">
-				<views:Miscellany  />
-			</TabItem>
-			
 			<TabItem Header="Приложение А">
 				<views:Appendix_A  />
 			</TabItem>
@@ -47,6 +42,9 @@
 				<views:Appendix_D  />
 			</TabItem>
 			
+			<TabItem Header="Разное">
+				<views:Miscellany  />
+			</TabItem>
 			<!-- <TabItem Header="Раздел в разработке">
 				<views:InDevelopment  DataContect = "{Binding Path = InDevelopmentViewModel}"/>
 			</TabItem>

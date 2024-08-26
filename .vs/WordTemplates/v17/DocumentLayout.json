@@ -3,120 +3,140 @@
   "WorkspaceRootPath": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|c:\\users\\pc_119\\desktop\\word templates begin refactored\\word-templates-main\\wordtemplates\\models\\services\\tablesappender\\addtableparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|solutionrelative:wordtemplates\\models\\services\\tablesappender\\addtableparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|c:\\users\\pc_119\\desktop\\word templates begin refactored\\word-templates-main\\wordtemplates\\models\\services\\tablesappender\\addtablevalues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|solutionrelative:wordtemplates\\models\\services\\tablesappender\\addtablevalues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|c:\\users\\pc_119\\desktop\\word templates begin refactored\\word-templates-main\\wordtemplates\\models\\services\\tablesappender\\tables4parafactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|solutionrelative:wordtemplates\\models\\services\\tablesappender\\tables4parafactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|c:\\users\\pc_119\\desktop\\word templates begin refactored\\word-templates-main\\wordtemplates\\models\\services\\namechanger\\namechangersinglereplacement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|solutionrelative:wordtemplates\\models\\services\\namechanger\\namechangersinglereplacement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|c:\\users\\pc_119\\desktop\\word templates begin refactored\\word-templates-main\\wordtemplates\\models\\services\\namechanger\\namechangergost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|solutionrelative:wordtemplates\\models\\services\\namechanger\\namechangergost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|c:\\users\\pc_119\\desktop\\word templates begin refactored\\word-templates-main\\wordtemplates\\models\\services\\tablesappender\\addtablegost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|solutionrelative:wordtemplates\\models\\services\\tablesappender\\addtablegost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC_119\\AppData\\Local\\Temp\\.vsdbgsrc\\2bce5929a163a0863b450b7f9ba1074db26d491fdccbaa69ec015fc0d58d6d40\\PortableThreadPool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC_119\\AppData\\Local\\Temp\\.vsdbgsrc\\a9f039d3b98bad8a57c31566e19254459eccd1a633f9e509034fd7e84034b11c\\ThreadPoolWorkQueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|c:\\users\\pc_119\\desktop\\word templates begin refactored\\word-templates-main\\wordtemplates\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|solutionrelative:wordtemplates\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|c:\\users\\pc_119\\desktop\\word templates begin refactored\\word-templates-main\\wordtemplates\\models\\services\\documentprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|solutionrelative:wordtemplates\\models\\services\\documentprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|c:\\users\\pc_119\\desktop\\word templates begin refactored\\word-templates-main\\wordtemplates\\models\\services\\namechanger\\requirements431.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|solutionrelative:wordtemplates\\models\\services\\namechanger\\requirements431.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|c:\\users\\pc_119\\desktop\\word templates begin refactored\\word-templates-main\\wordtemplates\\models\\services\\texttransformfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|solutionrelative:wordtemplates\\models\\services\\texttransformfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|c:\\users\\pc_119\\desktop\\word templates begin refactored\\word-templates-main\\wordtemplates\\models\\datatypes\\older ones\\valuelimits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|solutionrelative:wordtemplates\\models\\datatypes\\older ones\\valuelimits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|c:\\users\\pc_119\\desktop\\word templates begin refactored\\word-templates-main\\wordtemplates\\models\\services\\documentprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|solutionrelative:wordtemplates\\models\\services\\documentprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|c:\\users\\pc_119\\desktop\\word templates begin refactored\\word-templates-main\\wordtemplates\\models\\datatypes\\older ones\\templatedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|solutionrelative:wordtemplates\\models\\datatypes\\older ones\\templatedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|c:\\users\\pc_119\\desktop\\word templates begin refactored\\word-templates-main\\wordtemplates\\models\\services\\tablesappender\\addtableparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|solutionrelative:wordtemplates\\models\\services\\tablesappender\\addtableparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|c:\\users\\pc_119\\desktop\\word templates begin refactored\\word-templates-main\\wordtemplates\\models\\datatypes\\older ones\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|solutionrelative:wordtemplates\\models\\datatypes\\older ones\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|c:\\users\\pc_119\\desktop\\word templates begin refactored\\word-templates-main\\wordtemplates\\models\\services\\tablesappender\\addtablegost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|solutionrelative:wordtemplates\\models\\services\\tablesappender\\addtablegost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|c:\\users\\pc_119\\desktop\\word templates begin refactored\\word-templates-main\\wordtemplates\\models\\services\\tablesappender\\addtableeachmicroscheme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|solutionrelative:wordtemplates\\models\\services\\tablesappender\\addtableeachmicroscheme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC_119\\AppData\\Local\\Temp\\.vsdbgsrc\\6072d3761b5e8f388e62f8a41cd66bbe01745fea73ba6c660a5aa19814d0f752\\Win32DispatcherImpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|c:\\users\\pc_119\\desktop\\word templates begin refactored\\word-templates-main\\wordtemplates\\models\\services\\appendixes\\appendixa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|solutionrelative:wordtemplates\\models\\services\\appendixes\\appendixa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|c:\\users\\pc_119\\desktop\\word templates begin refactored\\word-templates-main\\wordtemplates\\models\\services\\namechanger\\namechangergost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|solutionrelative:wordtemplates\\models\\services\\namechanger\\namechangergost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|c:\\users\\pc_119\\desktop\\word templates begin refactored\\word-templates-main\\wordtemplates\\models\\services\\namechanger\\namechangermultiplereplacement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|solutionrelative:wordtemplates\\models\\services\\namechanger\\namechangermultiplereplacement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|c:\\users\\pc_119\\desktop\\word templates begin refactored\\word-templates-main\\wordtemplates\\models\\services\\postprocessing\\strangesymbolsreplacer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|solutionrelative:wordtemplates\\models\\services\\postprocessing\\strangesymbolsreplacer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|c:\\users\\pc_119\\desktop\\word templates begin refactored\\word-templates-main\\wordtemplates\\models\\services\\tablesappender\\addtableeachmicroscheme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|solutionrelative:wordtemplates\\models\\services\\tablesappender\\addtableeachmicroscheme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|c:\\users\\pc_119\\desktop\\word templates begin refactored\\word-templates-main\\wordtemplates\\viewmodels\\appendixdviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|solutionrelative:wordtemplates\\viewmodels\\appendixdviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|c:\\users\\pc_119\\desktop\\word templates begin refactored\\word-templates-main\\wordtemplates\\models\\services\\namechanger\\gostcsvreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|solutionrelative:wordtemplates\\models\\services\\namechanger\\gostcsvreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|c:\\users\\pc_119\\desktop\\word templates begin refactored\\word-templates-main\\wordtemplates\\views\\elementsview.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|solutionrelative:wordtemplates\\views\\elementsview.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|c:\\users\\pc_119\\desktop\\word templates begin refactored\\word-templates-main\\wordtemplates\\models\\datatypes\\older ones\\templatedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|solutionrelative:wordtemplates\\models\\datatypes\\older ones\\templatedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|c:\\users\\pc_119\\desktop\\word templates begin refactored\\word-templates-main\\wordtemplates\\views\\groupsview.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|solutionrelative:wordtemplates\\views\\groupsview.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|c:\\users\\pc_119\\desktop\\word templates begin refactored\\word-templates-main\\wordtemplates\\models\\datatypes\\newer ones\\dappndixoptrion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|solutionrelative:wordtemplates\\models\\datatypes\\newer ones\\dappndixoptrion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|c:\\users\\pc_119\\desktop\\word templates begin refactored\\word-templates-main\\wordtemplates\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|solutionrelative:wordtemplates\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|c:\\users\\pc_119\\desktop\\word templates begin refactored\\word-templates-main\\wordtemplates\\views\\variablesview.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|solutionrelative:wordtemplates\\views\\variablesview.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|c:\\users\\pc_119\\desktop\\word templates begin refactored\\word-templates-main\\wordtemplates\\views\\mainwindow.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|solutionrelative:wordtemplates\\views\\mainwindow.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|c:\\users\\pc_119\\desktop\\word templates begin refactored\\word-templates-main\\wordtemplates\\views\\miscellany.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|solutionrelative:wordtemplates\\views\\miscellany.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|c:\\users\\pc_119\\desktop\\word templates begin refactored\\word-templates-main\\wordtemplates\\models\\datatypes\\older ones\\electricalparameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|solutionrelative:wordtemplates\\models\\datatypes\\older ones\\electricalparameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|c:\\users\\pc_119\\desktop\\word templates begin refactored\\word-templates-main\\wordtemplates\\views\\appendix_d.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|solutionrelative:wordtemplates\\views\\appendix_d.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|c:\\users\\pc_119\\desktop\\word templates begin refactored\\word-templates-main\\wordtemplates\\views\\elementsview.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|solutionrelative:wordtemplates\\views\\elementsview.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|c:\\users\\pc_119\\desktop\\word templates begin refactored\\word-templates-main\\wordtemplates\\views\\appendix_a.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|solutionrelative:wordtemplates\\views\\appendix_a.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|c:\\users\\pc_119\\desktop\\word templates begin refactored\\word-templates-main\\wordtemplates\\viewmodels\\appendixdviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|solutionrelative:wordtemplates\\viewmodels\\appendixdviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|c:\\users\\pc_119\\desktop\\word templates begin refactored\\word-templates-main\\wordtemplates\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|solutionrelative:wordtemplates\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|c:\\users\\pc_119\\desktop\\word templates begin refactored\\word-templates-main\\wordtemplates\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|solutionrelative:wordtemplates\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|c:\\users\\pc_119\\desktop\\word templates begin refactored\\word-templates-main\\wordtemplates\\viewmodels\\appendixaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|solutionrelative:wordtemplates\\viewmodels\\appendixaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|c:\\users\\pc_119\\desktop\\word templates begin refactored\\word-templates-main\\wordtemplates\\views\\variablesview.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|solutionrelative:wordtemplates\\views\\variablesview.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|c:\\users\\pc_119\\desktop\\word templates begin refactored\\word-templates-main\\wordtemplates\\views\\appendix_d.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|solutionrelative:wordtemplates\\views\\appendix_d.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|c:\\users\\pc_119\\desktop\\word templates begin refactored\\word-templates-main\\wordtemplates\\views\\mainview.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|solutionrelative:wordtemplates\\views\\mainview.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|c:\\users\\pc_119\\desktop\\word templates begin refactored\\word-templates-main\\wordtemplates\\views\\miscellany.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|solutionrelative:wordtemplates\\views\\miscellany.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|c:\\users\\pc_119\\desktop\\word templates begin refactored\\word-templates-main\\wordtemplates\\views\\groupsview.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|solutionrelative:wordtemplates\\views\\groupsview.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC_119\\AppData\\Local\\Temp\\.vsdbgsrc\\b9ca1dbc93782b97f4801968c3f68b8b55434df3e216af3124aa30a64e6fc302\\AvaloniaList.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|c:\\users\\pc_119\\desktop\\word templates begin refactored\\word-templates-main\\wordtemplates\\views\\miscellany.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|solutionrelative:wordtemplates\\views\\miscellany.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|c:\\users\\pc_119\\desktop\\word templates begin refactored\\word-templates-main\\wordtemplates\\views\\mainwindow.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|solutionrelative:wordtemplates\\views\\mainwindow.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|c:\\users\\pc_119\\desktop\\word templates begin refactored\\word-templates-main\\wordtemplates\\models\\services\\appendixes\\appendixd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|solutionrelative:wordtemplates\\models\\services\\appendixes\\appendixd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|c:\\users\\pc_119\\desktop\\word templates begin refactored\\word-templates-main\\wordtemplates\\models\\services\\postprocessing\\textpostprocessingfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|solutionrelative:wordtemplates\\models\\services\\postprocessing\\textpostprocessingfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|c:\\users\\pc_119\\desktop\\word templates begin refactored\\word-templates-main\\wordtemplates\\models\\services\\postprocessing\\strangesymbolsreplacer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|solutionrelative:wordtemplates\\models\\services\\postprocessing\\strangesymbolsreplacer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|c:\\users\\pc_119\\desktop\\word templates begin refactored\\word-templates-main\\wordtemplates\\models\\services\\appendixes\\appendixa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|solutionrelative:wordtemplates\\models\\services\\appendixes\\appendixa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|c:\\users\\pc_119\\desktop\\word templates begin refactored\\word-templates-main\\wordtemplates\\views\\appendix_a.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|solutionrelative:wordtemplates\\views\\appendix_a.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|c:\\users\\pc_119\\desktop\\word templates begin refactored\\word-templates-main\\wordtemplates\\views\\groupsview.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|solutionrelative:wordtemplates\\views\\groupsview.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|c:\\users\\pc_119\\desktop\\word templates begin refactored\\word-templates-main\\wordtemplates\\views\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -127,24 +147,40 @@
       "RelativeMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|solutionrelative:wordtemplates\\views\\mainview.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|c:\\users\\pc_119\\desktop\\word templates begin refactored\\word-templates-main\\wordtemplates\\viewmodels\\appendixaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|solutionrelative:wordtemplates\\viewmodels\\appendixaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|c:\\users\\pc_119\\desktop\\word templates begin refactored\\word-templates-main\\wordtemplates\\models\\datatypes\\older ones\\electricalparameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|solutionrelative:wordtemplates\\models\\datatypes\\older ones\\electricalparameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|c:\\users\\pc_119\\desktop\\word templates begin refactored\\word-templates-main\\wordtemplates\\views\\appendix_a.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|solutionrelative:wordtemplates\\views\\appendix_a.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|c:\\users\\pc_119\\desktop\\word templates begin refactored\\word-templates-main\\wordtemplates\\views\\appendix_d.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|solutionrelative:wordtemplates\\views\\appendix_d.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|c:\\users\\pc_119\\desktop\\word templates begin refactored\\word-templates-main\\wordtemplates\\views\\elementsview.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|solutionrelative:wordtemplates\\views\\elementsview.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|c:\\users\\pc_119\\desktop\\word templates begin refactored\\word-templates-main\\wordtemplates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|solutionrelative:wordtemplates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|c:\\users\\pc_119\\desktop\\word templates begin refactored\\word-templates-main\\wordtemplates\\viewlocator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|solutionrelative:wordtemplates\\viewlocator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|c:\\users\\pc_119\\desktop\\word templates begin refactored\\word-templates-main\\wordtemplates\\models\\datatypes\\older ones\\valuelimits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|solutionrelative:wordtemplates\\models\\datatypes\\older ones\\valuelimits.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC_119\\AppData\\Local\\Temp\\.vsdbgsrc\\2bce5929a163a0863b450b7f9ba1074db26d491fdccbaa69ec015fc0d58d6d40\\PortableThreadPool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC_119\\AppData\\Local\\Temp\\.vsdbgsrc\\a9f039d3b98bad8a57c31566e19254459eccd1a633f9e509034fd7e84034b11c\\ThreadPoolWorkQueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|c:\\users\\pc_119\\desktop\\word templates begin refactored\\word-templates-main\\wordtemplates\\models\\datatypes\\older ones\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|solutionrelative:wordtemplates\\models\\datatypes\\older ones\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC_119\\AppData\\Local\\Temp\\.vsdbgsrc\\6072d3761b5e8f388e62f8a41cd66bbe01745fea73ba6c660a5aa19814d0f752\\Win32DispatcherImpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|c:\\users\\pc_119\\desktop\\word templates begin refactored\\word-templates-main\\wordtemplates\\views\\miscellany.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|solutionrelative:wordtemplates\\views\\miscellany.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC_119\\AppData\\Local\\Temp\\.vsdbgsrc\\b9ca1dbc93782b97f4801968c3f68b8b55434df3e216af3124aa30a64e6fc302\\AvaloniaList.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|c:\\users\\pc_119\\desktop\\word templates begin refactored\\word-templates-main\\wordtemplates\\.editorconfig||{68B46364-D378-42F2-9E72-37D86C5F4468}",
@@ -155,23 +191,11 @@
       "RelativeMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|solutionrelative:wordtemplates\\app.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|c:\\users\\pc_119\\desktop\\word templates begin refactored\\word-templates-main\\wordtemplates\\views\\groupsview.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|solutionrelative:wordtemplates\\views\\groupsview.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|c:\\users\\pc_119\\desktop\\word templates begin refactored\\word-templates-main\\wordtemplates\\models\\datatypes\\older ones\\observablelinkedcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|solutionrelative:wordtemplates\\models\\datatypes\\older ones\\observablelinkedcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|c:\\users\\pc_119\\desktop\\word templates begin refactored\\word-templates-main\\wordtemplates\\viewlocator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|solutionrelative:wordtemplates\\viewlocator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC_119\\AppData\\Local\\Temp\\VSGeneratedDocuments\\7a28ca4d-c30c-8c10-2d75-a6459e8a02cb\\WordTemplates.Models.TemplateData.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|c:\\users\\pc_119\\desktop\\word templates begin refactored\\word-templates-main\\wordtemplates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|solutionrelative:wordtemplates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{82DD9007-6E33-4FC1-B3E2-CB53F9C3B858}|WordTemplates\\WordTemplates_refactofing.csproj|c:\\users\\pc_119\\desktop\\word templates begin refactored\\word-templates-main\\wordtemplates\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
@@ -185,17 +209,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "AddTableValues.cs",
               "DocumentMoniker": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Models\\Services\\TablesAppender\\AddTableValues.cs",
               "RelativeDocumentMoniker": "WordTemplates\\Models\\Services\\TablesAppender\\AddTableValues.cs",
               "ToolTip": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Models\\Services\\TablesAppender\\AddTableValues.cs",
               "RelativeToolTip": "WordTemplates\\Models\\Services\\TablesAppender\\AddTableValues.cs",
-              "ViewState": "AQIAAEcAAAAAAAAAAAAwwFEAAAAmAAAA",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAIwHEAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-01T13:16:31.116Z",
               "IsPinned": true,
@@ -208,10 +232,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
               "$type": "Bookmark",
@@ -228,57 +248,97 @@
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "ThreadPoolWorkQueue.cs",
-              "DocumentMoniker": "C:\\Users\\PC_119\\AppData\\Local\\Temp\\.vsdbgsrc\\a9f039d3b98bad8a57c31566e19254459eccd1a633f9e509034fd7e84034b11c\\ThreadPoolWorkQueue.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\a9f039d3b98bad8a57c31566e19254459eccd1a633f9e509034fd7e84034b11c\\ThreadPoolWorkQueue.cs",
-              "ToolTip": "C:\\Users\\PC_119\\AppData\\Local\\Temp\\.vsdbgsrc\\a9f039d3b98bad8a57c31566e19254459eccd1a633f9e509034fd7e84034b11c\\ThreadPoolWorkQueue.cs [Read Only]",
-              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\a9f039d3b98bad8a57c31566e19254459eccd1a633f9e509034fd7e84034b11c\\ThreadPoolWorkQueue.cs [Read Only]",
-              "ViewState": "AQIAAKMCAAAAAAAAAAAvwLECAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T11:03:12.694Z",
-              "EditorCaption": " [Read Only]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PortableThreadPool.cs",
-              "DocumentMoniker": "C:\\Users\\PC_119\\AppData\\Local\\Temp\\.vsdbgsrc\\2bce5929a163a0863b450b7f9ba1074db26d491fdccbaa69ec015fc0d58d6d40\\PortableThreadPool.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\2bce5929a163a0863b450b7f9ba1074db26d491fdccbaa69ec015fc0d58d6d40\\PortableThreadPool.cs",
-              "ToolTip": "C:\\Users\\PC_119\\AppData\\Local\\Temp\\.vsdbgsrc\\2bce5929a163a0863b450b7f9ba1074db26d491fdccbaa69ec015fc0d58d6d40\\PortableThreadPool.cs",
-              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\2bce5929a163a0863b450b7f9ba1074db26d491fdccbaa69ec015fc0d58d6d40\\PortableThreadPool.cs",
-              "ViewState": "AQIAACEFAAAAAAAAAAAvwC8FAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T06:50:46.507Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "AddTableParameters.cs",
               "DocumentMoniker": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Models\\Services\\TablesAppender\\AddTableParameters.cs",
               "RelativeDocumentMoniker": "WordTemplates\\Models\\Services\\TablesAppender\\AddTableParameters.cs",
               "ToolTip": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Models\\Services\\TablesAppender\\AddTableParameters.cs",
               "RelativeToolTip": "WordTemplates\\Models\\Services\\TablesAppender\\AddTableParameters.cs",
-              "ViewState": "AQIAAEQAAAAAAAAAAAAIwE4AAABZAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-08T10:14:34.639Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DocumentProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Models\\Services\\DocumentProcessor.cs",
+              "RelativeDocumentMoniker": "WordTemplates\\Models\\Services\\DocumentProcessor.cs",
+              "ToolTip": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Models\\Services\\DocumentProcessor.cs",
+              "RelativeToolTip": "WordTemplates\\Models\\Services\\DocumentProcessor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T11:21:08.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "TextTransformFactory.cs",
+              "DocumentMoniker": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Models\\Services\\TextTransformFactory.cs",
+              "RelativeDocumentMoniker": "WordTemplates\\Models\\Services\\TextTransformFactory.cs",
+              "ToolTip": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Models\\Services\\TextTransformFactory.cs",
+              "RelativeToolTip": "WordTemplates\\Models\\Services\\TextTransformFactory.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAswFgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T12:54:02.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tables4ParaFactory.cs",
+              "DocumentMoniker": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Models\\Services\\TablesAppender\\Tables4ParaFactory.cs",
+              "RelativeDocumentMoniker": "WordTemplates\\Models\\Services\\TablesAppender\\Tables4ParaFactory.cs",
+              "ToolTip": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Models\\Services\\TablesAppender\\Tables4ParaFactory.cs",
+              "RelativeToolTip": "WordTemplates\\Models\\Services\\TablesAppender\\Tables4ParaFactory.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCIAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T11:34:41.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NameChangerSingleReplacement.cs",
+              "DocumentMoniker": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Models\\Services\\NameChanger\\NameChangerSingleReplacement.cs",
+              "RelativeDocumentMoniker": "WordTemplates\\Models\\Services\\NameChanger\\NameChangerSingleReplacement.cs",
+              "ToolTip": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Models\\Services\\NameChanger\\NameChangerSingleReplacement.cs",
+              "RelativeToolTip": "WordTemplates\\Models\\Services\\NameChanger\\NameChangerSingleReplacement.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T12:01:44.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Requirements431.cs",
+              "DocumentMoniker": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Models\\Services\\NameChanger\\Requirements431.cs",
+              "RelativeDocumentMoniker": "WordTemplates\\Models\\Services\\NameChanger\\Requirements431.cs",
+              "ToolTip": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Models\\Services\\NameChanger\\Requirements431.cs",
+              "RelativeToolTip": "WordTemplates\\Models\\Services\\NameChanger\\Requirements431.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T11:18:14.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "AddTableGost.cs",
               "DocumentMoniker": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Models\\Services\\TablesAppender\\AddTableGost.cs",
               "RelativeDocumentMoniker": "WordTemplates\\Models\\Services\\TablesAppender\\AddTableGost.cs",
               "ToolTip": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Models\\Services\\TablesAppender\\AddTableGost.cs",
               "RelativeToolTip": "WordTemplates\\Models\\Services\\TablesAppender\\AddTableGost.cs",
-              "ViewState": "AQIAAEMAAAAAAAAAAAAswBEAAAA/AAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-14T09:09:22.987Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "NameChangerGost.cs",
               "DocumentMoniker": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Models\\Services\\NameChanger\\NameChangerGost.cs",
               "RelativeDocumentMoniker": "WordTemplates\\Models\\Services\\NameChanger\\NameChangerGost.cs",
@@ -291,151 +351,120 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "NameChangerSingleReplacement.cs",
-              "DocumentMoniker": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Models\\Services\\NameChanger\\NameChangerSingleReplacement.cs",
-              "RelativeDocumentMoniker": "WordTemplates\\Models\\Services\\NameChanger\\NameChangerSingleReplacement.cs",
-              "ToolTip": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Models\\Services\\NameChanger\\NameChangerSingleReplacement.cs",
-              "RelativeToolTip": "WordTemplates\\Models\\Services\\NameChanger\\NameChangerSingleReplacement.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T12:01:44.367Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MainViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\ViewModels\\MainViewModel.cs",
-              "RelativeDocumentMoniker": "WordTemplates\\ViewModels\\MainViewModel.cs",
-              "ToolTip": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\ViewModels\\MainViewModel.cs",
-              "RelativeToolTip": "WordTemplates\\ViewModels\\MainViewModel.cs",
-              "ViewState": "AQIAAJQAAAAAAAAAAAAvwKIAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T10:57:28.302Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DocumentProcessor.cs",
-              "DocumentMoniker": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Models\\Services\\DocumentProcessor.cs",
-              "RelativeDocumentMoniker": "WordTemplates\\Models\\Services\\DocumentProcessor.cs",
-              "ToolTip": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Models\\Services\\DocumentProcessor.cs",
-              "RelativeToolTip": "WordTemplates\\Models\\Services\\DocumentProcessor.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T11:21:08.262Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "TextTransformFactory.cs",
-              "DocumentMoniker": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Models\\Services\\TextTransformFactory.cs",
-              "RelativeDocumentMoniker": "WordTemplates\\Models\\Services\\TextTransformFactory.cs",
-              "ToolTip": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Models\\Services\\TextTransformFactory.cs",
-              "RelativeToolTip": "WordTemplates\\Models\\Services\\TextTransformFactory.cs",
-              "ViewState": "AQIAADoAAAAAAAAAAAAvwEcAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T12:54:02.392Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Win32DispatcherImpl.cs",
-              "DocumentMoniker": "C:\\Users\\PC_119\\AppData\\Local\\Temp\\.vsdbgsrc\\6072d3761b5e8f388e62f8a41cd66bbe01745fea73ba6c660a5aa19814d0f752\\Win32DispatcherImpl.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\6072d3761b5e8f388e62f8a41cd66bbe01745fea73ba6c660a5aa19814d0f752\\Win32DispatcherImpl.cs",
-              "ToolTip": "C:\\Users\\PC_119\\AppData\\Local\\Temp\\.vsdbgsrc\\6072d3761b5e8f388e62f8a41cd66bbe01745fea73ba6c660a5aa19814d0f752\\Win32DispatcherImpl.cs",
-              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\6072d3761b5e8f388e62f8a41cd66bbe01745fea73ba6c660a5aa19814d0f752\\Win32DispatcherImpl.cs",
-              "ViewState": "AQIAADgAAAAAAAAAAAAvwEYAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-12T08:51:23.764Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "TemplateData.cs",
-              "DocumentMoniker": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Models\\DataTypes\\Older ones\\TemplateData.cs",
-              "RelativeDocumentMoniker": "WordTemplates\\Models\\DataTypes\\Older ones\\TemplateData.cs",
-              "ToolTip": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Models\\DataTypes\\Older ones\\TemplateData.cs",
-              "RelativeToolTip": "WordTemplates\\Models\\DataTypes\\Older ones\\TemplateData.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T10:13:42.29Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ValueLimits.cs",
-              "DocumentMoniker": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Models\\DataTypes\\Older ones\\ValueLimits.cs",
-              "RelativeDocumentMoniker": "WordTemplates\\Models\\DataTypes\\Older ones\\ValueLimits.cs",
-              "ToolTip": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Models\\DataTypes\\Older ones\\ValueLimits.cs",
-              "RelativeToolTip": "WordTemplates\\Models\\DataTypes\\Older ones\\ValueLimits.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T11:49:35.305Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Group.cs",
-              "DocumentMoniker": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Models\\DataTypes\\Older ones\\Group.cs",
-              "RelativeDocumentMoniker": "WordTemplates\\Models\\DataTypes\\Older ones\\Group.cs",
-              "ToolTip": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Models\\DataTypes\\Older ones\\Group.cs",
-              "RelativeToolTip": "WordTemplates\\Models\\DataTypes\\Older ones\\Group.cs",
-              "ViewState": "AQIAAEYAAAAAAAAAAIA9wFwAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T09:45:57.39Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "AddTableEachMicroscheme.cs",
-              "DocumentMoniker": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Models\\Services\\TablesAppender\\AddTableEachMicroscheme.cs",
-              "RelativeDocumentMoniker": "WordTemplates\\Models\\Services\\TablesAppender\\AddTableEachMicroscheme.cs",
-              "ToolTip": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Models\\Services\\TablesAppender\\AddTableEachMicroscheme.cs",
-              "RelativeToolTip": "WordTemplates\\Models\\Services\\TablesAppender\\AddTableEachMicroscheme.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAQwCsAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T11:59:31.052Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "AppendixA.cs",
-              "DocumentMoniker": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Models\\Services\\Appendixes\\AppendixA.cs",
-              "RelativeDocumentMoniker": "WordTemplates\\Models\\Services\\Appendixes\\AppendixA.cs",
-              "ToolTip": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Models\\Services\\Appendixes\\AppendixA.cs",
-              "RelativeToolTip": "WordTemplates\\Models\\Services\\Appendixes\\AppendixA.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T12:08:58.646Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
               "Title": "NameChangerMultipleReplacement.cs",
               "DocumentMoniker": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Models\\Services\\NameChanger\\NameChangerMultipleReplacement.cs",
               "RelativeDocumentMoniker": "WordTemplates\\Models\\Services\\NameChanger\\NameChangerMultipleReplacement.cs",
               "ToolTip": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Models\\Services\\NameChanger\\NameChangerMultipleReplacement.cs",
               "RelativeToolTip": "WordTemplates\\Models\\Services\\NameChanger\\NameChangerMultipleReplacement.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAqwBIAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-02T09:44:12.236Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "StrangeSymbolsReplacer.cs",
-              "DocumentMoniker": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Models\\Services\\PostProcessing\\StrangeSymbolsReplacer.cs",
-              "RelativeDocumentMoniker": "WordTemplates\\Models\\Services\\PostProcessing\\StrangeSymbolsReplacer.cs",
-              "ToolTip": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Models\\Services\\PostProcessing\\StrangeSymbolsReplacer.cs",
-              "RelativeToolTip": "WordTemplates\\Models\\Services\\PostProcessing\\StrangeSymbolsReplacer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAApAAAA",
+              "DocumentIndex": 10,
+              "Title": "AddTableEachMicroscheme.cs",
+              "DocumentMoniker": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Models\\Services\\TablesAppender\\AddTableEachMicroscheme.cs",
+              "RelativeDocumentMoniker": "WordTemplates\\Models\\Services\\TablesAppender\\AddTableEachMicroscheme.cs",
+              "ToolTip": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Models\\Services\\TablesAppender\\AddTableEachMicroscheme.cs",
+              "RelativeToolTip": "WordTemplates\\Models\\Services\\TablesAppender\\AddTableEachMicroscheme.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwCsAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-14T11:47:18.138Z"
+              "WhenOpened": "2024-08-08T11:59:31.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GostCsvReader.cs",
+              "DocumentMoniker": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Models\\Services\\NameChanger\\GostCsvReader.cs",
+              "RelativeDocumentMoniker": "WordTemplates\\Models\\Services\\NameChanger\\GostCsvReader.cs",
+              "ToolTip": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Models\\Services\\NameChanger\\GostCsvReader.cs",
+              "RelativeToolTip": "WordTemplates\\Models\\Services\\NameChanger\\GostCsvReader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T08:02:59.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TemplateData.cs",
+              "DocumentMoniker": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Models\\DataTypes\\Older ones\\TemplateData.cs",
+              "RelativeDocumentMoniker": "WordTemplates\\Models\\DataTypes\\Older ones\\TemplateData.cs",
+              "ToolTip": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Models\\DataTypes\\Older ones\\TemplateData.cs",
+              "RelativeToolTip": "WordTemplates\\Models\\DataTypes\\Older ones\\TemplateData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T10:13:42.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DAppndixOptrion.cs",
+              "DocumentMoniker": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Models\\DataTypes\\Newer ones\\DAppndixOptrion.cs",
+              "RelativeDocumentMoniker": "WordTemplates\\Models\\DataTypes\\Newer ones\\DAppndixOptrion.cs",
+              "ToolTip": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Models\\DataTypes\\Newer ones\\DAppndixOptrion.cs",
+              "RelativeToolTip": "WordTemplates\\Models\\DataTypes\\Newer ones\\DAppndixOptrion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T10:53:25.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ElectricalParameter.cs",
+              "DocumentMoniker": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Models\\DataTypes\\Older ones\\ElectricalParameter.cs",
+              "RelativeDocumentMoniker": "WordTemplates\\Models\\DataTypes\\Older ones\\ElectricalParameter.cs",
+              "ToolTip": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Models\\DataTypes\\Older ones\\ElectricalParameter.cs",
+              "RelativeToolTip": "WordTemplates\\Models\\DataTypes\\Older ones\\ElectricalParameter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T09:51:18.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Appendix_D.axaml",
+              "DocumentMoniker": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Views\\Appendix_D.axaml",
+              "RelativeDocumentMoniker": "WordTemplates\\Views\\Appendix_D.axaml",
+              "ToolTip": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Views\\Appendix_D.axaml",
+              "RelativeToolTip": "WordTemplates\\Views\\Appendix_D.axaml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-13T12:21:20.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ElementsView.axaml",
+              "DocumentMoniker": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Views\\ElementsView.axaml",
+              "RelativeDocumentMoniker": "WordTemplates\\Views\\ElementsView.axaml",
+              "ToolTip": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Views\\ElementsView.axaml",
+              "RelativeToolTip": "WordTemplates\\Views\\ElementsView.axaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-12T08:23:24.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Appendix_A.axaml",
+              "DocumentMoniker": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Views\\Appendix_A.axaml",
+              "RelativeDocumentMoniker": "WordTemplates\\Views\\Appendix_A.axaml",
+              "ToolTip": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Views\\Appendix_A.axaml",
+              "RelativeToolTip": "WordTemplates\\Views\\Appendix_A.axaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-12T08:50:37.451Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -445,37 +474,27 @@
               "RelativeDocumentMoniker": "WordTemplates\\ViewModels\\AppendixDViewModel.cs",
               "ToolTip": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\ViewModels\\AppendixDViewModel.cs",
               "RelativeToolTip": "WordTemplates\\ViewModels\\AppendixDViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAlAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T12:30:32.335Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "GroupsView.axaml",
-              "DocumentMoniker": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Views\\GroupsView.axaml",
-              "RelativeDocumentMoniker": "WordTemplates\\Views\\GroupsView.axaml",
-              "ToolTip": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Views\\GroupsView.axaml",
-              "RelativeToolTip": "WordTemplates\\Views\\GroupsView.axaml",
-              "ViewState": "AQIAAGYAAAAAAAAAAAAAACkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-08-12T08:29:30.927Z"
+              "WhenOpened": "2024-08-13T12:30:32.335Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
-              "Title": "ElementsView.axaml",
-              "DocumentMoniker": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Views\\ElementsView.axaml",
-              "RelativeDocumentMoniker": "WordTemplates\\Views\\ElementsView.axaml",
-              "ToolTip": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Views\\ElementsView.axaml",
-              "RelativeToolTip": "WordTemplates\\Views\\ElementsView.axaml",
-              "ViewState": "AQIAAEIAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-08-12T08:23:24.747Z"
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "WordTemplates\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "WordTemplates\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AQIAAI8AAAAAAAAAAAAnwJ8AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T10:57:28.302Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 20,
               "Title": "MainWindowViewModel.cs",
               "DocumentMoniker": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\ViewModels\\MainWindowViewModel.cs",
               "RelativeDocumentMoniker": "WordTemplates\\ViewModels\\MainWindowViewModel.cs",
@@ -483,19 +502,21 @@
               "RelativeToolTip": "WordTemplates\\ViewModels\\MainWindowViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-12T09:00:04.8Z"
+              "WhenOpened": "2024-08-12T09:00:04.8Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "MainWindow.axaml",
-              "DocumentMoniker": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Views\\MainWindow.axaml",
-              "RelativeDocumentMoniker": "WordTemplates\\Views\\MainWindow.axaml",
-              "ToolTip": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Views\\MainWindow.axaml",
-              "RelativeToolTip": "WordTemplates\\Views\\MainWindow.axaml",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAiwCcAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-08-12T08:26:19.137Z"
+              "DocumentIndex": 21,
+              "Title": "AppendixAViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\ViewModels\\AppendixAViewModel.cs",
+              "RelativeDocumentMoniker": "WordTemplates\\ViewModels\\AppendixAViewModel.cs",
+              "ToolTip": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\ViewModels\\AppendixAViewModel.cs",
+              "RelativeToolTip": "WordTemplates\\ViewModels\\AppendixAViewModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T08:54:40.566Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -505,86 +526,157 @@
               "RelativeDocumentMoniker": "WordTemplates\\Views\\VariablesView.axaml",
               "ToolTip": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Views\\VariablesView.axaml",
               "RelativeToolTip": "WordTemplates\\Views\\VariablesView.axaml",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB0AAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-08-14T08:18:05.135Z"
+              "WhenOpened": "2024-08-14T08:18:05.135Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "Miscellany.axaml.cs",
-              "DocumentMoniker": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Views\\Miscellany.axaml.cs",
-              "RelativeDocumentMoniker": "WordTemplates\\Views\\Miscellany.axaml.cs",
-              "ToolTip": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Views\\Miscellany.axaml.cs",
-              "RelativeToolTip": "WordTemplates\\Views\\Miscellany.axaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "DocumentIndex": 23,
+              "Title": "Appendix_D.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Views\\Appendix_D.axaml.cs",
+              "RelativeDocumentMoniker": "WordTemplates\\Views\\Appendix_D.axaml.cs",
+              "ToolTip": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Views\\Appendix_D.axaml.cs",
+              "RelativeToolTip": "WordTemplates\\Views\\Appendix_D.axaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-14T10:04:25.472Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Appendix_A.axaml",
-              "DocumentMoniker": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Views\\Appendix_A.axaml",
-              "RelativeDocumentMoniker": "WordTemplates\\Views\\Appendix_A.axaml",
-              "ToolTip": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Views\\Appendix_A.axaml",
-              "RelativeToolTip": "WordTemplates\\Views\\Appendix_A.axaml",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAACQAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-08-12T08:50:37.451Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Appendix_D.axaml",
-              "DocumentMoniker": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Views\\Appendix_D.axaml",
-              "RelativeDocumentMoniker": "WordTemplates\\Views\\Appendix_D.axaml",
-              "ToolTip": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Views\\Appendix_D.axaml",
-              "RelativeToolTip": "WordTemplates\\Views\\Appendix_D.axaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-08-13T12:21:20.511Z"
+              "WhenOpened": "2024-08-13T12:21:20.214Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 24,
-              "Title": "Miscellany.axaml",
-              "DocumentMoniker": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Views\\Miscellany.axaml",
-              "RelativeDocumentMoniker": "WordTemplates\\Views\\Miscellany.axaml",
-              "ToolTip": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Views\\Miscellany.axaml",
-              "RelativeToolTip": "WordTemplates\\Views\\Miscellany.axaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-08-14T10:04:25.896Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
               "Title": "MainView.axaml",
               "DocumentMoniker": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Views\\MainView.axaml",
               "RelativeDocumentMoniker": "WordTemplates\\Views\\MainView.axaml",
               "ToolTip": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Views\\MainView.axaml",
               "RelativeToolTip": "WordTemplates\\Views\\MainView.axaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA+AAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAQAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-08-02T10:21:47.729Z"
+              "WhenOpened": "2024-08-02T10:21:47.729Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "AvaloniaList.cs",
-              "DocumentMoniker": "C:\\Users\\PC_119\\AppData\\Local\\Temp\\.vsdbgsrc\\b9ca1dbc93782b97f4801968c3f68b8b55434df3e216af3124aa30a64e6fc302\\AvaloniaList.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\b9ca1dbc93782b97f4801968c3f68b8b55434df3e216af3124aa30a64e6fc302\\AvaloniaList.cs",
-              "ToolTip": "C:\\Users\\PC_119\\AppData\\Local\\Temp\\.vsdbgsrc\\b9ca1dbc93782b97f4801968c3f68b8b55434df3e216af3124aa30a64e6fc302\\AvaloniaList.cs [Read Only]",
-              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\b9ca1dbc93782b97f4801968c3f68b8b55434df3e216af3124aa30a64e6fc302\\AvaloniaList.cs [Read Only]",
-              "ViewState": "AQIAAJgBAAAAAAAAAAAvwLIBAAACAAAA",
+              "DocumentIndex": 26,
+              "Title": "Miscellany.axaml",
+              "DocumentMoniker": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Views\\Miscellany.axaml",
+              "RelativeDocumentMoniker": "WordTemplates\\Views\\Miscellany.axaml",
+              "ToolTip": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Views\\Miscellany.axaml",
+              "RelativeToolTip": "WordTemplates\\Views\\Miscellany.axaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-14T10:04:25.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GroupsView.axaml",
+              "DocumentMoniker": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Views\\GroupsView.axaml",
+              "RelativeDocumentMoniker": "WordTemplates\\Views\\GroupsView.axaml",
+              "ToolTip": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Views\\GroupsView.axaml",
+              "RelativeToolTip": "WordTemplates\\Views\\GroupsView.axaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-12T08:29:30.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MainWindow.axaml",
+              "DocumentMoniker": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Views\\MainWindow.axaml",
+              "RelativeDocumentMoniker": "WordTemplates\\Views\\MainWindow.axaml",
+              "ToolTip": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Views\\MainWindow.axaml",
+              "RelativeToolTip": "WordTemplates\\Views\\MainWindow.axaml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-12T08:26:19.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AppendixD.cs",
+              "DocumentMoniker": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Models\\Services\\Appendixes\\AppendixD.cs",
+              "RelativeDocumentMoniker": "WordTemplates\\Models\\Services\\Appendixes\\AppendixD.cs",
+              "ToolTip": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Models\\Services\\Appendixes\\AppendixD.cs",
+              "RelativeToolTip": "WordTemplates\\Models\\Services\\Appendixes\\AppendixD.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAqwA8AAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-14T10:08:42.476Z",
-              "EditorCaption": " [Read Only]"
+              "WhenOpened": "2024-08-26T09:18:25.019Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 30,
+              "Title": "StrangeSymbolsReplacer.cs",
+              "DocumentMoniker": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Models\\Services\\PostProcessing\\StrangeSymbolsReplacer.cs",
+              "RelativeDocumentMoniker": "WordTemplates\\Models\\Services\\PostProcessing\\StrangeSymbolsReplacer.cs",
+              "ToolTip": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Models\\Services\\PostProcessing\\StrangeSymbolsReplacer.cs",
+              "RelativeToolTip": "WordTemplates\\Models\\Services\\PostProcessing\\StrangeSymbolsReplacer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T11:47:18.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "TextPostProcessingFactory.cs",
+              "DocumentMoniker": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Models\\Services\\PostProcessing\\TextPostProcessingFactory.cs",
+              "RelativeDocumentMoniker": "WordTemplates\\Models\\Services\\PostProcessing\\TextPostProcessingFactory.cs",
+              "ToolTip": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Models\\Services\\PostProcessing\\TextPostProcessingFactory.cs",
+              "RelativeToolTip": "WordTemplates\\Models\\Services\\PostProcessing\\TextPostProcessingFactory.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T09:30:45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AppendixA.cs",
+              "DocumentMoniker": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Models\\Services\\Appendixes\\AppendixA.cs",
+              "RelativeDocumentMoniker": "WordTemplates\\Models\\Services\\Appendixes\\AppendixA.cs",
+              "ToolTip": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Models\\Services\\Appendixes\\AppendixA.cs",
+              "RelativeToolTip": "WordTemplates\\Models\\Services\\Appendixes\\AppendixA.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T12:08:58.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Appendix_A.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Views\\Appendix_A.axaml.cs",
+              "RelativeDocumentMoniker": "WordTemplates\\Views\\Appendix_A.axaml.cs",
+              "ToolTip": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Views\\Appendix_A.axaml.cs",
+              "RelativeToolTip": "WordTemplates\\Views\\Appendix_A.axaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T08:50:37.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "GroupsView.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Views\\GroupsView.axaml.cs",
+              "RelativeDocumentMoniker": "WordTemplates\\Views\\GroupsView.axaml.cs",
+              "ToolTip": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Views\\GroupsView.axaml.cs",
+              "RelativeToolTip": "WordTemplates\\Views\\GroupsView.axaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T08:30:15.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
               "Title": "MainWindow.axaml.cs",
               "DocumentMoniker": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Views\\MainWindow.axaml.cs",
               "RelativeDocumentMoniker": "WordTemplates\\Views\\MainWindow.axaml.cs",
@@ -592,11 +684,12 @@
               "RelativeToolTip": "WordTemplates\\Views\\MainWindow.axaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-12T08:58:11.946Z"
+              "WhenOpened": "2024-08-12T08:58:11.946Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 35,
               "Title": "MainView.axaml.cs",
               "DocumentMoniker": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Views\\MainView.axaml.cs",
               "RelativeDocumentMoniker": "WordTemplates\\Views\\MainView.axaml.cs",
@@ -604,55 +697,8 @@
               "RelativeToolTip": "WordTemplates\\Views\\MainView.axaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-12T09:00:28.024Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "AppendixAViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\ViewModels\\AppendixAViewModel.cs",
-              "RelativeDocumentMoniker": "WordTemplates\\ViewModels\\AppendixAViewModel.cs",
-              "ToolTip": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\ViewModels\\AppendixAViewModel.cs",
-              "RelativeToolTip": "WordTemplates\\ViewModels\\AppendixAViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-12T08:54:40.566Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "ElectricalParameter.cs",
-              "DocumentMoniker": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Models\\DataTypes\\Older ones\\ElectricalParameter.cs",
-              "RelativeDocumentMoniker": "WordTemplates\\Models\\DataTypes\\Older ones\\ElectricalParameter.cs",
-              "ToolTip": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Models\\DataTypes\\Older ones\\ElectricalParameter.cs",
-              "RelativeToolTip": "WordTemplates\\Models\\DataTypes\\Older ones\\ElectricalParameter.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-08T09:51:18.403Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "Appendix_A.axaml.cs",
-              "DocumentMoniker": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Views\\Appendix_A.axaml.cs",
-              "RelativeDocumentMoniker": "WordTemplates\\Views\\Appendix_A.axaml.cs",
-              "ToolTip": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Views\\Appendix_A.axaml.cs",
-              "RelativeToolTip": "WordTemplates\\Views\\Appendix_A.axaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-12T08:50:37.144Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "Appendix_D.axaml.cs",
-              "DocumentMoniker": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Views\\Appendix_D.axaml.cs",
-              "RelativeDocumentMoniker": "WordTemplates\\Views\\Appendix_D.axaml.cs",
-              "ToolTip": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Views\\Appendix_D.axaml.cs",
-              "RelativeToolTip": "WordTemplates\\Views\\Appendix_D.axaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T12:21:20.214Z"
+              "WhenOpened": "2024-08-12T09:00:28.024Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -664,82 +710,12 @@
               "RelativeToolTip": "WordTemplates\\Views\\ElementsView.axaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T12:28:53.623Z"
+              "WhenOpened": "2024-08-13T12:28:53.623Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 37,
-              "Title": ".editorconfig",
-              "DocumentMoniker": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\.editorconfig",
-              "RelativeDocumentMoniker": "WordTemplates\\.editorconfig",
-              "ToolTip": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\.editorconfig",
-              "RelativeToolTip": "WordTemplates\\.editorconfig",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-08-13T12:05:43.263Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "App.axaml.cs",
-              "DocumentMoniker": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\App.axaml.cs",
-              "RelativeDocumentMoniker": "WordTemplates\\App.axaml.cs",
-              "ToolTip": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\App.axaml.cs",
-              "RelativeToolTip": "WordTemplates\\App.axaml.cs",
-              "ViewState": "AQIAACkAAAAAAAAAAAAAAD8AAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T09:49:00.587Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "GroupsView.axaml.cs",
-              "DocumentMoniker": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Views\\GroupsView.axaml.cs",
-              "RelativeDocumentMoniker": "WordTemplates\\Views\\GroupsView.axaml.cs",
-              "ToolTip": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Views\\GroupsView.axaml.cs",
-              "RelativeToolTip": "WordTemplates\\Views\\GroupsView.axaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-12T08:30:15.025Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "ObservableLinkedCollection.cs",
-              "DocumentMoniker": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Models\\DataTypes\\Older ones\\ObservableLinkedCollection.cs",
-              "RelativeDocumentMoniker": "WordTemplates\\Models\\DataTypes\\Older ones\\ObservableLinkedCollection.cs",
-              "ToolTip": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Models\\DataTypes\\Older ones\\ObservableLinkedCollection.cs",
-              "RelativeToolTip": "WordTemplates\\Models\\DataTypes\\Older ones\\ObservableLinkedCollection.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-12T08:41:45.4Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "ViewLocator.cs",
-              "DocumentMoniker": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\ViewLocator.cs",
-              "RelativeDocumentMoniker": "WordTemplates\\ViewLocator.cs",
-              "ToolTip": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\ViewLocator.cs",
-              "RelativeToolTip": "WordTemplates\\ViewLocator.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T09:49:37.362Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "WordTemplates.Models.TemplateData.g.cs",
-              "DocumentMoniker": "C:\\Users\\PC_119\\AppData\\Local\\Temp\\VSGeneratedDocuments\\7a28ca4d-c30c-8c10-2d75-a6459e8a02cb\\WordTemplates.Models.TemplateData.g.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\VSGeneratedDocuments\\7a28ca4d-c30c-8c10-2d75-a6459e8a02cb\\WordTemplates.Models.TemplateData.g.cs",
-              "ToolTip": "WordTemplates.Models.TemplateData.g.cs [generated by CommunityToolkit.Mvvm.SourceGenerators.ObservablePropertyGenerator]",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "OverriddenToolTip": "WordTemplates.Models.TemplateData.g.cs [generated by CommunityToolkit.Mvvm.SourceGenerators.ObservablePropertyGenerator]",
-              "WhenOpened": "2024-08-07T09:31:00.242Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Program.cs",
               "RelativeDocumentMoniker": "WordTemplates\\Program.cs",
@@ -752,7 +728,153 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ViewLocator.cs",
+              "DocumentMoniker": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\ViewLocator.cs",
+              "RelativeDocumentMoniker": "WordTemplates\\ViewLocator.cs",
+              "ToolTip": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\ViewLocator.cs",
+              "RelativeToolTip": "WordTemplates\\ViewLocator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T09:49:37.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ValueLimits.cs",
+              "DocumentMoniker": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Models\\DataTypes\\Older ones\\ValueLimits.cs",
+              "RelativeDocumentMoniker": "WordTemplates\\Models\\DataTypes\\Older ones\\ValueLimits.cs",
+              "ToolTip": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Models\\DataTypes\\Older ones\\ValueLimits.cs",
+              "RelativeToolTip": "WordTemplates\\Models\\DataTypes\\Older ones\\ValueLimits.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T11:49:35.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "PortableThreadPool.cs",
+              "DocumentMoniker": "C:\\Users\\PC_119\\AppData\\Local\\Temp\\.vsdbgsrc\\2bce5929a163a0863b450b7f9ba1074db26d491fdccbaa69ec015fc0d58d6d40\\PortableThreadPool.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\2bce5929a163a0863b450b7f9ba1074db26d491fdccbaa69ec015fc0d58d6d40\\PortableThreadPool.cs",
+              "ToolTip": "C:\\Users\\PC_119\\AppData\\Local\\Temp\\.vsdbgsrc\\2bce5929a163a0863b450b7f9ba1074db26d491fdccbaa69ec015fc0d58d6d40\\PortableThreadPool.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\2bce5929a163a0863b450b7f9ba1074db26d491fdccbaa69ec015fc0d58d6d40\\PortableThreadPool.cs",
+              "ViewState": "AQIAACEFAAAAAAAAAAAvwC8FAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T06:50:46.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ThreadPoolWorkQueue.cs",
+              "DocumentMoniker": "C:\\Users\\PC_119\\AppData\\Local\\Temp\\.vsdbgsrc\\a9f039d3b98bad8a57c31566e19254459eccd1a633f9e509034fd7e84034b11c\\ThreadPoolWorkQueue.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\a9f039d3b98bad8a57c31566e19254459eccd1a633f9e509034fd7e84034b11c\\ThreadPoolWorkQueue.cs",
+              "ToolTip": "C:\\Users\\PC_119\\AppData\\Local\\Temp\\.vsdbgsrc\\a9f039d3b98bad8a57c31566e19254459eccd1a633f9e509034fd7e84034b11c\\ThreadPoolWorkQueue.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\a9f039d3b98bad8a57c31566e19254459eccd1a633f9e509034fd7e84034b11c\\ThreadPoolWorkQueue.cs [Read Only]",
+              "ViewState": "AQIAAKMCAAAAAAAAAAAvwLECAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T11:03:12.694Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Win32DispatcherImpl.cs",
+              "DocumentMoniker": "C:\\Users\\PC_119\\AppData\\Local\\Temp\\.vsdbgsrc\\6072d3761b5e8f388e62f8a41cd66bbe01745fea73ba6c660a5aa19814d0f752\\Win32DispatcherImpl.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\6072d3761b5e8f388e62f8a41cd66bbe01745fea73ba6c660a5aa19814d0f752\\Win32DispatcherImpl.cs",
+              "ToolTip": "C:\\Users\\PC_119\\AppData\\Local\\Temp\\.vsdbgsrc\\6072d3761b5e8f388e62f8a41cd66bbe01745fea73ba6c660a5aa19814d0f752\\Win32DispatcherImpl.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\6072d3761b5e8f388e62f8a41cd66bbe01745fea73ba6c660a5aa19814d0f752\\Win32DispatcherImpl.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAvwEYAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T08:51:23.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Models\\DataTypes\\Older ones\\Group.cs",
+              "RelativeDocumentMoniker": "WordTemplates\\Models\\DataTypes\\Older ones\\Group.cs",
+              "ToolTip": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Models\\DataTypes\\Older ones\\Group.cs",
+              "RelativeToolTip": "WordTemplates\\Models\\DataTypes\\Older ones\\Group.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAIA9wFwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T09:45:57.39Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 44,
+              "Title": "Miscellany.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Views\\Miscellany.axaml.cs",
+              "RelativeDocumentMoniker": "WordTemplates\\Views\\Miscellany.axaml.cs",
+              "ToolTip": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Views\\Miscellany.axaml.cs",
+              "RelativeToolTip": "WordTemplates\\Views\\Miscellany.axaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T10:04:25.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "AvaloniaList.cs",
+              "DocumentMoniker": "C:\\Users\\PC_119\\AppData\\Local\\Temp\\.vsdbgsrc\\b9ca1dbc93782b97f4801968c3f68b8b55434df3e216af3124aa30a64e6fc302\\AvaloniaList.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\b9ca1dbc93782b97f4801968c3f68b8b55434df3e216af3124aa30a64e6fc302\\AvaloniaList.cs",
+              "ToolTip": "C:\\Users\\PC_119\\AppData\\Local\\Temp\\.vsdbgsrc\\b9ca1dbc93782b97f4801968c3f68b8b55434df3e216af3124aa30a64e6fc302\\AvaloniaList.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\b9ca1dbc93782b97f4801968c3f68b8b55434df3e216af3124aa30a64e6fc302\\AvaloniaList.cs [Read Only]",
+              "ViewState": "AQIAAJgBAAAAAAAAAAAvwLIBAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T10:08:42.476Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": ".editorconfig",
+              "DocumentMoniker": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\.editorconfig",
+              "RelativeDocumentMoniker": "WordTemplates\\.editorconfig",
+              "ToolTip": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\.editorconfig",
+              "RelativeToolTip": "WordTemplates\\.editorconfig",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-13T12:05:43.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "App.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\App.axaml.cs",
+              "RelativeDocumentMoniker": "WordTemplates\\App.axaml.cs",
+              "ToolTip": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\App.axaml.cs",
+              "RelativeToolTip": "WordTemplates\\App.axaml.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAAD8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T09:49:00.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ObservableLinkedCollection.cs",
+              "DocumentMoniker": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Models\\DataTypes\\Older ones\\ObservableLinkedCollection.cs",
+              "RelativeDocumentMoniker": "WordTemplates\\Models\\DataTypes\\Older ones\\ObservableLinkedCollection.cs",
+              "ToolTip": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\Models\\DataTypes\\Older ones\\ObservableLinkedCollection.cs",
+              "RelativeToolTip": "WordTemplates\\Models\\DataTypes\\Older ones\\ObservableLinkedCollection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T08:41:45.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "WordTemplates.Models.TemplateData.g.cs",
+              "DocumentMoniker": "C:\\Users\\PC_119\\AppData\\Local\\Temp\\VSGeneratedDocuments\\7a28ca4d-c30c-8c10-2d75-a6459e8a02cb\\WordTemplates.Models.TemplateData.g.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\VSGeneratedDocuments\\7a28ca4d-c30c-8c10-2d75-a6459e8a02cb\\WordTemplates.Models.TemplateData.g.cs",
+              "ToolTip": "WordTemplates.Models.TemplateData.g.cs [generated by CommunityToolkit.Mvvm.SourceGenerators.ObservablePropertyGenerator]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "OverriddenToolTip": "WordTemplates.Models.TemplateData.g.cs [generated by CommunityToolkit.Mvvm.SourceGenerators.ObservablePropertyGenerator]",
+              "WhenOpened": "2024-08-07T09:31:00.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
               "Title": "app.manifest",
               "DocumentMoniker": "C:\\Users\\PC_119\\Desktop\\Word Templates begin refactored\\word-templates-main\\WordTemplates\\app.manifest",
               "RelativeDocumentMoniker": "WordTemplates\\app.manifest",

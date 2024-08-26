@@ -13,6 +13,8 @@ namespace WordTemplates_refactoring_refactofing.Models.Services.TablesAppender
 {
     internal class AddTableParameters:IExecutioneer
     {
+
+
         Table t;
         TemplateData data;
         // we do load data in constructors, DocX in execute

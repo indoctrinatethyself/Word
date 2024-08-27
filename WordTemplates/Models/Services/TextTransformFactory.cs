@@ -79,18 +79,24 @@ public class TextTransformFactory
         ///////////////////////////////////////////////////////////////////////////////////////////////////
         //two lines which replace text with a table with 
         //maximal or minimal data 
+        /*
         IExecutioneer addTableValues = new AddTableValues(staticDocument, staticData);
         staticDocument= addTableValues.Execute(staticDocument);
 
         // replace another text sample with another table
         IExecutioneer addTableParameters = new AddTableParameters(staticDocument, staticData);
         staticDocument=addTableParameters.Execute(staticDocument);
-        //////////////////////////////////////////////////////////////////////////////
-        ///
+        */
+        /////////////////////////////////////////////////////////////////////////////////////////////////
+        
         //This method should replace some shit made above, just a little 
         //"generalisation" lol
         IExecutioneer tablesFromFourthParagraph = new Tables4ParaFactory(staticDocument, staticData);
         staticDocument=tablesFromFourthParagraph.Execute(staticDocument);
+
+        //test:
+        return staticDocument;
+
         /*
         IExecutioneer addTableSummary = new AddTableSummary(staticDocument, staticData);
         staticDocument = AddTableSummary.Execute(staticDocument);

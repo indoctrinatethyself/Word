@@ -36,6 +36,23 @@ namespace WordTemplates_refactoring_refactofing.Models.Services.TablesAppender
 
             this.data = data;
         }
+
+        internal AddTableParameters(DocX document, )
+        {
+            t = document.AddTable(2, 5);
+            t.Alignment = Alignment.center;
+            t.Rows[0].Cells[0].Paragraphs[0].Append("Наименование параметра, единица измерения");
+            t.Rows[0].Cells[1].Paragraphs[0].Append("Буквенное обозначение параметра");
+            t.Rows[0].Cells[2].Paragraphs[0].Append("Норма параметра");
+            t.Rows[0].Cells[4].Paragraphs[0].Append("Температура корпуса");
+            t.Rows[1].Cells[2].Paragraphs[0].Append("не менее");
+            t.Rows[1].Cells[3].Paragraphs[0].Append("не более");
+            t.MergeCellsInColumn(0, 0, 1);
+            t.MergeCellsInColumn(1, 0, 1);
+            t.MergeCellsInColumn(4, 0, 1);
+            t.Rows[0].MergeCells(2, 3);
+            this.data = data;
+        }
         private void RowAppend(Element element)
         {
             var r = t.InsertRow();

@@ -7,9 +7,9 @@ using WordTemplates_refactoring_refactofing.Services;
 using Xceed.Document.NET;
 using Xceed.Words.NET;
 
-namespace WordTemplates_refactofing.Models.Services.NameChanger
+namespace WordTemplates_refactofing.Models.Services.TablesAppender
 {
-    internal class Requirements431:IExecutioneer
+    internal class Requirements431 : IExecutioneer
     {
         private static int numberOvTables;
         internal Requirements431(int nums)

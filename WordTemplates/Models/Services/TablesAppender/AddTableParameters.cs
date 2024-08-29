@@ -37,7 +37,7 @@ namespace WordTemplates_refactoring_refactofing.Models.Services.TablesAppender
             this.data = data;
         }
 
-        internal AddTableParameters(DocX document, )
+        internal AddTableParameters(DocX document )
         {
             t = document.AddTable(2, 5);
             t.Alignment = Alignment.center;
@@ -109,7 +109,7 @@ namespace WordTemplates_refactoring_refactofing.Models.Services.TablesAppender
             for (int i = 0; i < data.Groups.Count;  i++)
             {
                 //AppendNote(data.Groups.Items[i].ElectricalParametersNotes);
-            }
+            } 
             */
 
             document.ReplaceTextWithObject("<таблица 1 экспериментальная>", t);

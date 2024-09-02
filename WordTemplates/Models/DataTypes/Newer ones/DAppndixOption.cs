@@ -7,9 +7,14 @@ using System.Threading.Tasks;
 
 namespace WordTemplates_refactofing.Models.DataTypes.Newer_ones
 {
-    public partial class DAppndixOptrion : ObservableObject
+    public partial class DAppndixOption : ObservableObject
     {
-        DAppndixOptrion() { }
+        DAppndixOption() 
+        {
+            bool isCustom;
+            int option;
+
+        }
 
 
     }
